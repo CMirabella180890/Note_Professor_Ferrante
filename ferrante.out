@@ -1,0 +1,65 @@
+\BOOKMARK [0][-]{part.1}{1 Momento statico, baricentro di figure piane}{}% 1
+\BOOKMARK [1][-]{section.1}{Introduzione}{part.1}% 2
+\BOOKMARK [1][-]{section.2}{La definizione di momento statico}{part.1}% 3
+\BOOKMARK [1][-]{section.3}{Baricentro di una figura piana}{part.1}% 4
+\BOOKMARK [1][-]{section.4}{Esercizi}{part.1}% 5
+\BOOKMARK [0][-]{part.2}{2 Momento di inerzia di una figura piana}{}% 6
+\BOOKMARK [1][-]{section.1}{Definizione di momento di inerzia}{part.2}% 7
+\BOOKMARK [1][-]{section.2}{Formule notevoli di momenti di inerzia}{part.2}% 8
+\BOOKMARK [1][-]{section.3}{Momento di inerzia polare}{part.2}% 9
+\BOOKMARK [1][-]{section.4}{Teorema del trasporto del momento di inerzia}{part.2}% 10
+\BOOKMARK [1][-]{section.5}{Altre formule notevoli di momento di inerzia}{part.2}% 11
+\BOOKMARK [1][-]{section.6}{Esercizi}{part.2}% 12
+\BOOKMARK [0][-]{part.3}{3 Momento centrifugo}{}% 13
+\BOOKMARK [1][-]{section.1}{La definizione di momento centrifugo}{part.3}% 14
+\BOOKMARK [1][-]{section.2}{Teorema del trasporto del momento centrifugo}{part.3}% 15
+\BOOKMARK [1][-]{section.3}{Momenti centrifughi di un triangolo rettangolo}{part.3}% 16
+\BOOKMARK [1][-]{section.4}{Esercizi}{part.3}% 17
+\BOOKMARK [0][-]{part.4}{4 Assi principali di inerzia}{}% 18
+\BOOKMARK [1][-]{section.1}{Formule di trasformazione}{part.4}% 19
+\BOOKMARK [1][-]{section.2}{Gli assi principali di inerzia}{part.4}% 20
+\BOOKMARK [1][-]{section.3}{Esercizi}{part.4}% 21
+\BOOKMARK [0][-]{part.5}{5 Il cerchio di Mohr}{}% 22
+\BOOKMARK [1][-]{section.1}{La costruzione del cerchio di Mohr}{part.5}% 23
+\BOOKMARK [1][-]{section.2}{L'utilizzazione del cerchio di Mohr}{part.5}% 24
+\BOOKMARK [1][-]{section.3}{Esercizi}{part.5}% 25
+\BOOKMARK [0][-]{part.6}{6 Ellisse centrale di inerzia}{}% 26
+\BOOKMARK [1][-]{section.1}{La definizione di raggio di inerzia}{part.6}% 27
+\BOOKMARK [1][-]{section.2}{La definizione di ellisse centrale di inerzia}{part.6}% 28
+\BOOKMARK [1][-]{section.3}{Diametri coniugati di un'ellisse}{part.6}% 29
+\BOOKMARK [1][-]{section.4}{Punti coniugati rispetto all'ellisse}{part.6}% 30
+\BOOKMARK [1][-]{section.5}{Antipolarit\340 rispetto all'ellisse}{part.6}% 31
+\BOOKMARK [1][-]{section.6}{Il nocciolo centrale di inerzia}{part.6}% 32
+\BOOKMARK [1][-]{section.7}{Nocciolo del cerchio}{part.6}% 33
+\BOOKMARK [1][-]{section.8}{Il nocciolo del rettangolo}{part.6}% 34
+\BOOKMARK [1][-]{section.9}{Il nocciolo di un profilato}{part.6}% 35
+\BOOKMARK [1][-]{section.10}{Esercizi}{part.6}% 36
+\BOOKMARK [0][-]{part.7}{7 Classificazione delle strutture}{}% 37
+\BOOKMARK [1][-]{section.1}{Definizioni ed ipotesi di base}{part.7}% 38
+\BOOKMARK [1][-]{section.2}{Definizione ed ipotesi di base}{part.7}% 39
+\BOOKMARK [1][-]{section.3}{I vincoli, interpretazione statica}{part.7}% 40
+\BOOKMARK [1][-]{section.4}{Il sistema delle equazioni di equilibrio}{part.7}% 41
+\BOOKMARK [1][-]{section.5}{Labilit\340}{part.7}% 42
+\BOOKMARK [1][-]{section.6}{Indeterminazioni}{part.7}% 43
+\BOOKMARK [1][-]{section.7}{I quattro tipi di strutture}{part.7}% 44
+\BOOKMARK [0][-]{part.8}{8 Risoluzione delle strutture staticamente determinate}{}% 45
+\BOOKMARK [1][-]{section.1}{Introduzione}{part.8}% 46
+\BOOKMARK [1][-]{section.2}{Alcuni notevoli casi di equilibrio}{part.8}% 47
+\BOOKMARK [1][-]{section.3}{Una metodologia per la risoluzione delle strutture a pi\371 tronchi}{part.8}% 48
+\BOOKMARK [1][-]{section.4}{Esercizi}{part.8}% 49
+\BOOKMARK [0][-]{part.9}{9 Strutture reticolari}{}% 50
+\BOOKMARK [1][-]{section.1}{La risoluzione grafica \(Metodo dei nodi\)}{part.9}% 51
+\BOOKMARK [1][-]{section.2}{Il metodo di Ritter}{part.9}% 52
+\BOOKMARK [1][-]{section.3}{Esercizi}{part.9}% 53
+\BOOKMARK [0][-]{part.10}{10 Carichi ripartiti su una trave}{}% 54
+\BOOKMARK [1][-]{section.1}{Carico trasversale e carico assiale per unit\340 di lunghezza}{part.10}% 55
+\BOOKMARK [1][-]{section.2}{La risultante del carico ripartito}{part.10}% 56
+\BOOKMARK [1][-]{section.3}{Esercizi}{part.10}% 57
+\BOOKMARK [0][-]{part.11}{11 Le caratteristiche della sollecitazione interna}{}% 58
+\BOOKMARK [1][-]{section.1}{Le definizioni di N, T ed M}{part.11}% 59
+\BOOKMARK [1][-]{section.2}{Esercizi}{part.11}% 60
+\BOOKMARK [0][-]{part.12}{12 Una valida alternativa per calcolare N, T ed M}{}% 61
+\BOOKMARK [1][-]{section.1}{Sollecitazione interna vista sul concio}{part.12}% 62
+\BOOKMARK [1][-]{section.2}{Sollecitazione interna e carichi ripartiti nelle travi}{part.12}% 63
+\BOOKMARK [1][-]{section.3}{Esercizi}{part.12}% 64
+\BOOKMARK [0][-]{part.13}{13 Discontinuit\340 e punti angolosi nei diagrammi di N, T ed M}{}% 65

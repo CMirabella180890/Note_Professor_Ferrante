@@ -1,0 +1,234 @@
+%------------------------------------------------
+%       INIZIO PREAMBOLO
+%------------------------------------------------
+\documentclass[a4paper,11pt,twoside]{article}
+\usepackage[T1]{fontenc}            % Si occupa dei font che si vedranno nel documento composto con T1 codifica font in uso
+\usepackage[utf8]{inputenc}         % Interpreta correttamente i caratteri immessi nell'editor con utf8 codifica input
+\usepackage[italian]{babel}         % Agisce su parole fisse, date, convenzioni tipografiche e regole sillabazione
+\usepackage{ar}                     % Simbolo allungamento alare
+\usepackage{mathpazo}               % Palatino font per il Frontespizio
+\usepackage{microtype}              % Migliora il riempimento delle righe
+%\usepackage[showframe]{geometry}   % Regola le proporzioni di pagina (con margini evidenziati)
+\usepackage{geometry}               % Regola le proporzioni di pagina
+\usepackage{multicol}               % Pacchetto per inserimento testo in due colonne
+\usepackage{eurosym}                % Pacchetto per il simbolo dell'euro
+%------------------------------------------------
+%       OPZIONI PACCHETTO GEOMETRY
+%------------------------------------------------
+\geometry{a4paper,left=3.5cm,right=2cm,heightrounded,twoside}
+%------------------------------------------------
+%       OPZIONI PACCHETTO GEOMETRY
+%------------------------------------------------
+\usepackage{hyperref}               % Permette di creare link ipertestuali
+\usepackage[italian]{varioref}      % Permette riferimenti ad una o più pagine di distanza dall'oggetto
+%------------------------------------------------
+%       DEFINIZIONE TESTATINE
+%------------------------------------------------
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{Enrico Ferrante}
+\fancyhead[RE,LO]{Strutture Aerospaziali}
+\fancyfoot[CE,CO]{\leftmark}
+\fancyfoot[LE,RO]{\thepage}
+\renewcommand{\headrulewidth}{2pt}
+\renewcommand{\footrulewidth}{1pt}
+%------------------------------------------------
+%       DEFINIZIONE TESTATINE
+%------------------------------------------------
+\usepackage{amsmath}                             % Migliora la stampa dei simboli matematici
+\usepackage{amssymb}                             % Simboli matematici
+\usepackage{amsthm}                              % Pacchetto per enunciati e dimostrazioni
+%\usepackage[italian,intoc]{nomencl}             % Pacchetto per la creazione di una lista dei simboli
+\usepackage{mathtools}                           % Pacchetto per il simbolo modulo di un vettore
+\usepackage[output-decimal-marker={.}]{siunitx}  % Pacchetto per le unità di misura
+%------------------------------------------------
+%   INIZIO DEFINIZIONE MODULO DI UN VETTORE
+%------------------------------------------------
+\DeclarePairedDelimiter{\abs}{\lvert}{\rvert}    % Nel codice si usa con \abs
+\DeclarePairedDelimiter{\norma}{\lVert}{\rVert}  % Nel codice si usa con \norma
+%------------------------------------------------
+%     FINE DEFINIZIONE MODULO DI UN VETTORE
+%------------------------------------------------
+%------------------------------------------------
+%     INIZIO DEFINIZIONE PARTE REALE DI Z
+%------------------------------------------------
+\DeclareMathOperator{\Realpart}{Re}
+\renewcommand{\Re}{\Realpart}
+%------------------------------------------------
+%       FINE DEFINIZIONE PARTE REALE DI Z
+%------------------------------------------------
+\usepackage{booktabs}                           % Migliora la qualità tipografica delle tabelle
+\usepackage{graphicx}                           % Permette di inserire immagini a partire da file esterni
+\usepackage{caption}                            % Consente la definizione di didascalie in ambienti flottanti
+%------------------------------------------------
+%       OPZIONI PACCHETTO CAPTION
+%------------------------------------------------
+\captionsetup{tableposition=top,figureposition=bottom,font=small,format=hang,labelfont={sf,bf}}
+%------------------------------------------------
+%       OPZIONI PACCHETTO CAPTION
+%------------------------------------------------
+\usepackage{array}                                     % Pacchetto preferenze tabelle
+\usepackage{tabularx}                                  % Estensione del precedente pacchetto
+\usepackage[autostyle,italian=guillemets]{csquotes}    % Pacchetto con strumenti avanzati per effettuare citazioni in testo o fuori dal testo
+%------------------------------------------------
+%       INIZIO BIBLIOGRAFIA
+%------------------------------------------------
+\usepackage[
+    backend=biber,
+    style=numeric,
+    sorting=none,
+    sortlocale=auto,
+    language=italian,
+    hyperref=true,
+    refsection=section,
+    natbib=true,
+    url=false, 
+    doi=true,
+    eprint=false,
+    refsection=section
+]{biblatex}
+\addbibresource{elaborato.bib}
+%------------------------------------------------
+%       FINE BIBLIOGRAFIA
+%------------------------------------------------
+\usepackage{tocstyle}                            % Pacchetto per migliorare l'aspetto della table of contents
+\usetocstyle{allwithdot}
+\usepackage{pgfplots,relsize}                    % Pacchetto per grafici embedded nel sorgente
+\usepackage{epsf}                                % Pacchetto per includere immagini .ps
+\usepackage{pgfplotstable}                       % Pacchetto per caricare i dati in forma tabulata
+\usepackage{subfig}                              % Pacchetto per la gestione di sottofigure
+\usepackage{quoting}
+%------------------------------------------------
+%      COMANDO PER REGOLARE LE ITERAZIONI
+%------------------------------------------------
+\maxdeadcycles=200
+%------------------------------------------------
+%       FINE PREAMBOLO
+%------------------------------------------------
+\usepackage[final]{pdfpages}
+%------------------------------------------------
+\tikzstyle{block} = [rectangle, draw, fill=white, 
+    text width=7em, text centered, rounded corners, minimum height=4em]
+%------------------------------------------------
+\def\blankpage{%
+      \clearpage%
+      \thispagestyle{empty}%
+      \addtocounter{page}{-1}%
+      \null%
+      \clearpage}
+%------------------------------------------------
+\makeatletter
+\renewcommand*{\thepart}{\arabic{part}}
+\renewcommand*{\thesection}{\thepart.\arabic{section}}
+\renewcommand*{\thesubsection}{\thesection.\arabic{subsection}}
+\renewcommand*{\p@subsection}{}
+\renewcommand*{\thesubsubsection}{\thesubsection.\arabic{subsubsection}}
+\renewcommand*{\p@subsubsection}{}
+\makeatother
+%------------------------------------------------
+%\usepackage{subfigure}
+%------------------------------------------------
+%------------------------------------------------
+%
+%------------------------------------------------
+\usepackage{amsthm}
+%------------------------------------------------
+%
+%------------------------------------------------
+\theoremstyle{definition}
+\newtheorem{definizione}{Definizione}[section]
+%------------------------------------------------
+%
+%------------------------------------------------
+\theoremstyle{plain}
+\newtheorem{teorema}{Teorema}
+%------------------------------------------------
+%
+%------------------------------------------------
+\theoremstyle{plain}
+\newtheorem{prop}{Proposizione}[section]
+\theoremstyle{plain}
+\newtheorem{propr}{Proprietà}[section]
+\begin{document}
+%----------------------------------------------------------------------------------------
+%       FRONTESPIZIO INIZIA QUI
+%---------------------------------------------------------------------------------------
+\thispagestyle{empty}
+\includepdf[pages=-,pagecommand={},offset=10 -30]{Immagini/Frontespizio/Copertina_Ferrante.pdf}
+\blankpage
+%------------------------------------------------
+%       FINE FRONTESPIZIO
+%------------------------------------------------
+%------------------------------------------------
+%       INDICAZIONI PER LO SVILUPPO
+%------------------------------------------------
+\thispagestyle{plain}
+\pagenumbering{gobble}
+\input{Prefazione/prefazione}
+%------------------------------------------------
+%       INDICAZIONI PER LO SVILUPPO
+%------------------------------------------------
+\clearpage
+\tableofcontents
+\clearpage
+%------------------------------------------------
+\pagenumbering{arabic}
+\setcounter{page}{1}
+%------------------------------------------------
+\input{Parti/Momento_statico_e_baricentro_di_una_figura_piana/momento_statico_e_baricentro_di_una_figura_piana}
+%------------------------------------------------
+\input{Parti/Momento_di_inerzia_di_una_figura_piana/momento_di_inerzia_di_una_figura_piana}
+%------------------------------------------------
+\input{Parti/Momento_centrifugo/momento_centrifugo}
+%------------------------------------------------
+\input{Parti/Assi_principali_di_inerzia/assi_principali_di_inerzia}
+%------------------------------------------------
+\input{Parti/Il_cerchio_di_Mohr/il_cerchio_di_Mohr}
+%------------------------------------------------
+\input{Parti/Ellisse_centrale_di_inerzia/ellisse_centrale_di_inerzia}
+%------------------------------------------------
+\input{Parti/Classificazione_delle_strutture/classificazione_delle_strutture}
+%------------------------------------------------
+\input{Parti/Risoluzione_delle_strutture_staticamente_determinate/risoluzione_delle_strutture_staticamente_determinate}
+%------------------------------------------------
+\input{Parti/Strutture_reticolari/strutture_reticolari}
+%------------------------------------------------
+\input{Parti/Carichi_ripartiti_su_una_trave/carichi_ripartiti_su_una_trave}
+%------------------------------------------------
+\input{Parti/Caratteristiche_della_sollecitazione_interna/caratteristiche_della_sollecitazione_interna}
+%------------------------------------------------
+\input{Parti/Una_valida_alternativa_per_calcolare_M_N_T/una_valida_alternativa_per_calcolare_M_N_T}
+%------------------------------------------------
+\input{Parti/Discontinuità_e_punti_angolosi_nei_diagrammi_di_M_N_T/discont_e_punti_angolosi_nei_diag_di_M_N_T}
+%------------------------------------------------
+\clearpage
+%------------------------------------------------
+%\input{Laminare/laminare}
+\clearpage
+%------------------------------------------------
+%\input{Supersonico/supersonico}
+\clearpage
+%------------------------------------------------
+%\input{Cilindro/cilindro}
+\clearpage
+%------------------------------------------------
+%------------------------------------------------
+%\input{BAJetstream41/bajetstream41}
+%------------------------------------------------
+%------------------------------------------------
+%------------------------------------------------
+%------------------------------------------------
+%------------------------------------------------
+%------------------------------------------------
+%------------------------------------------------
+%------------------------------------------------
+%------------------------------------------------
+%------------------------------------------------
+%------------------------------------------------
+%------------------------------------------------
+%------------------------------------------------
+%------------------------------------------------
+%------------------------------------------------
+%------------------------------------------------
+\end{document}

@@ -1,0 +1,118 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {italian}{}
+\babel@toc {italian}{}
+\contentsline {part}{1\hspace {1em}Momento statico, baricentro di figure piane}{1}{part.1}
+\contentsline {section}{\numberline {1.1}Introduzione}{1}{section.1}
+\contentsline {section}{\numberline {1.2}La definizione di momento statico}{3}{section.2}
+\contentsline {section}{\numberline {1.3}Baricentro di una figura piana}{4}{section.3}
+\contentsline {section}{\numberline {1.4}Esercizi}{7}{section.4}
+\contentsline {paragraph}{Esercizio 1.1}{7}{section*.13}
+\contentsline {paragraph}{Esercizio 1.2}{9}{section*.16}
+\contentsline {paragraph}{Esercizio 1.3}{10}{section*.18}
+\contentsline {paragraph}{Esercizio 1.4}{12}{section*.20}
+\contentsline {paragraph}{Esercizio 1.5}{13}{section*.22}
+\contentsline {paragraph}{Esercizio 1.6}{14}{section*.24}
+\contentsline {paragraph}{Esercizio 1.7}{16}{section*.26}
+\contentsline {part}{2\hspace {1em}Momento di inerzia di una figura piana}{17}{part.2}
+\contentsline {section}{\numberline {2.1}Definizione di momento di inerzia}{18}{section.1}
+\contentsline {section}{\numberline {2.2}Formule notevoli di momenti di inerzia}{18}{section.2}
+\contentsline {section}{\numberline {2.3}Momento di inerzia polare}{21}{section.3}
+\contentsline {section}{\numberline {2.4}Teorema del trasporto del momento di inerzia}{22}{section.4}
+\contentsline {section}{\numberline {2.5}Altre formule notevoli di momento di inerzia}{24}{section.5}
+\contentsline {section}{\numberline {2.6}Esercizi}{26}{section.6}
+\contentsline {paragraph}{Esercizio 2.1}{26}{section*.36}
+\contentsline {paragraph}{Esercizio 2.2}{27}{section*.38}
+\contentsline {subparagraph}{Quesito 1:}{28}{section*.40}
+\contentsline {subparagraph}{Quesito 2:}{28}{section*.41}
+\contentsline {subparagraph}{Quesito 3:}{28}{section*.42}
+\contentsline {paragraph}{Esercizio 2.3}{29}{section*.43}
+\contentsline {paragraph}{Esercizio 2.4}{30}{section*.44}
+\contentsline {paragraph}{Esercizio 2.5}{31}{section*.45}
+\contentsline {part}{3\hspace {1em}Momento centrifugo}{32}{part.3}
+\contentsline {section}{\numberline {3.1}La definizione di momento centrifugo}{32}{section.1}
+\contentsline {section}{\numberline {3.2}Teorema del trasporto del momento centrifugo}{34}{section.2}
+\contentsline {section}{\numberline {3.3}Momenti centrifughi di un triangolo rettangolo}{35}{section.3}
+\contentsline {section}{\numberline {3.4}Esercizi}{38}{section.4}
+\contentsline {paragraph}{Esercizi 3.1}{38}{section*.54}
+\contentsline {paragraph}{Esercizio 3.2}{40}{section*.56}
+\contentsline {part}{4\hspace {1em}Assi principali di inerzia}{41}{part.4}
+\contentsline {section}{\numberline {4.1}Formule di trasformazione}{41}{section.1}
+\contentsline {section}{\numberline {4.2}Gli assi principali di inerzia}{42}{section.2}
+\contentsline {section}{\numberline {4.3}Esercizi}{45}{section.3}
+\contentsline {paragraph}{Esercizio 4.1}{45}{section*.59}
+\contentsline {part}{5\hspace {1em}Il cerchio di Mohr}{49}{part.5}
+\contentsline {section}{\numberline {5.1}La costruzione del cerchio di Mohr}{49}{section.1}
+\contentsline {section}{\numberline {5.2}L'utilizzazione del cerchio di Mohr}{50}{section.2}
+\contentsline {section}{\numberline {5.3}Esercizi}{54}{section.3}
+\contentsline {paragraph}{Esercizio 5.1}{54}{section*.66}
+\contentsline {subparagraph}{Quesito 1}{54}{section*.67}
+\contentsline {subparagraph}{Quesito 3}{55}{section*.69}
+\contentsline {subparagraph}{Quesito 4}{55}{section*.70}
+\contentsline {subparagraph}{Quesito 5}{55}{section*.71}
+\contentsline {part}{6\hspace {1em}Ellisse centrale di inerzia}{57}{part.6}
+\contentsline {section}{\numberline {6.1}La definizione di raggio di inerzia}{57}{section.1}
+\contentsline {section}{\numberline {6.2}La definizione di ellisse centrale di inerzia}{57}{section.2}
+\contentsline {section}{\numberline {6.3}Diametri coniugati di un'ellisse}{58}{section.3}
+\contentsline {section}{\numberline {6.4}Punti coniugati rispetto all'ellisse}{60}{section.4}
+\contentsline {section}{\numberline {6.5}Antipolarit\IeC {\`a} rispetto all'ellisse}{61}{section.5}
+\contentsline {section}{\numberline {6.6}Il nocciolo centrale di inerzia}{63}{section.6}
+\contentsline {section}{\numberline {6.7}Nocciolo del cerchio}{64}{section.7}
+\contentsline {section}{\numberline {6.8}Il nocciolo del rettangolo}{65}{section.8}
+\contentsline {section}{\numberline {6.9}Il nocciolo di un profilato}{66}{section.9}
+\contentsline {section}{\numberline {6.10}Esercizi}{68}{section.10}
+\contentsline {paragraph}{Esercizio 6.1}{68}{section*.81}
+\contentsline {part}{7\hspace {1em}Classificazione delle strutture}{74}{part.7}
+\contentsline {section}{\numberline {7.1}Definizioni ed ipotesi di base}{74}{section.1}
+\contentsline {section}{\numberline {7.2}Definizione ed ipotesi di base}{74}{section.2}
+\contentsline {section}{\numberline {7.3}I vincoli, interpretazione statica}{77}{section.3}
+\contentsline {section}{\numberline {7.4}Il sistema delle equazioni di equilibrio}{79}{section.4}
+\contentsline {section}{\numberline {7.5}Labilit\IeC {\`a}}{82}{section.5}
+\contentsline {section}{\numberline {7.6}Indeterminazioni}{83}{section.6}
+\contentsline {section}{\numberline {7.7}I quattro tipi di strutture}{83}{section.7}
+\contentsline {part}{8\hspace {1em}Risoluzione delle strutture staticamente determinate}{85}{part.8}
+\contentsline {section}{\numberline {8.1}Introduzione}{85}{section.1}
+\contentsline {section}{\numberline {8.2}Alcuni notevoli casi di equilibrio}{85}{section.2}
+\contentsline {section}{\numberline {8.3}Una metodologia per la risoluzione delle strutture a pi\IeC {\`u} tronchi}{85}{section.3}
+\contentsline {section}{\numberline {8.4}Esercizi}{88}{section.4}
+\contentsline {paragraph}{Esercizio 8.1}{88}{section*.92}
+\contentsline {subparagraph}{Quesito 1:}{88}{section*.94}
+\contentsline {subparagraph}{Quesito 2:}{88}{section*.95}
+\contentsline {paragraph}{Esercizio 8.2}{92}{section*.101}
+\contentsline {subparagraph}{Quesito 1:}{92}{section*.103}
+\contentsline {subparagraph}{Quesito 2:}{92}{figure.caption.105}
+\contentsline {paragraph}{Esercizio 8.3}{95}{section*.107}
+\contentsline {subparagraph}{Quesito 1:}{96}{section*.109}
+\contentsline {subparagraph}{Quesito 2:}{96}{figure.caption.111}
+\contentsline {subparagraph}{Quesito 3:}{97}{figure.caption.113}
+\contentsline {part}{9\hspace {1em}Strutture reticolari}{100}{part.9}
+\contentsline {section}{\numberline {9.1}La risoluzione grafica (Metodo dei nodi)}{100}{section.1}
+\contentsline {section}{\numberline {9.2}Il metodo di Ritter}{101}{section.2}
+\contentsline {section}{\numberline {9.3}Esercizi}{104}{section.3}
+\contentsline {paragraph}{Esercizio 9.1}{104}{section*.118}
+\contentsline {part}{10\hspace {1em}Carichi ripartiti su una trave}{109}{part.10}
+\contentsline {section}{\numberline {10.1}Carico trasversale e carico assiale per unit\IeC {\`a} di lunghezza}{109}{section.1}
+\contentsline {section}{\numberline {10.2}La risultante del carico ripartito}{110}{section.2}
+\contentsline {section}{\numberline {10.3}Esercizi}{113}{section.3}
+\contentsline {paragraph}{Esercizio 10.1}{113}{figure.caption.133}
+\contentsline {subparagraph}{Quesito 1}{113}{section*.134}
+\contentsline {subparagraph}{Quesito 2}{114}{figure.caption.136}
+\contentsline {subparagraph}{Quesito 3}{116}{figure.caption.141}
+\contentsline {part}{11\hspace {1em}Le caratteristiche della sollecitazione interna}{118}{part.11}
+\contentsline {section}{\numberline {11.1}Le definizioni di $N$, $T$ ed $M$}{118}{section.1}
+\contentsline {section}{\numberline {11.2}Esercizi}{122}{section.2}
+\contentsline {paragraph}{Esercizio 11.1}{122}{figure.caption.147}
+\contentsline {subparagraph}{Quesito 1}{122}{section*.148}
+\contentsline {subparagraph}{Quesito 2}{123}{section*.149}
+\contentsline {subparagraph}{Quesito 3}{125}{section*.153}
+\contentsline {part}{12\hspace {1em}Una valida alternativa per calcolare $N$, $T$ ed $M$}{128}{part.12}
+\contentsline {section}{\numberline {12.1}Sollecitazione interna vista sul concio}{129}{section.1}
+\contentsline {section}{\numberline {12.2}Sollecitazione interna e carichi ripartiti nelle travi}{129}{section.2}
+\contentsline {section}{\numberline {12.3}Esercizi}{133}{section.3}
+\contentsline {paragraph}{Esercizio 12.1}{133}{figure.caption.160}
+\contentsline {subparagraph}{Quesito 1}{133}{section*.161}
+\contentsline {subparagraph}{Quesito 2}{135}{figure.caption.165}
+\contentsline {paragraph}{Esercizio 12.2}{138}{figure.caption.167}
+\contentsline {subparagraph}{Quesito 1}{138}{section*.168}
+\contentsline {subparagraph}{Quesito 2}{139}{section*.169}
+\contentsline {subparagraph}{Quesito 3}{139}{section*.175}
+\contentsline {part}{13\hspace {1em}Discontinuit\IeC {\`a} e punti angolosi nei diagrammi di $N$, $T$ ed $M$}{145}{part.13}
