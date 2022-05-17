@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2020.5.13)  15 MAY 2022 17:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2020.5.13)  17 MAY 2022 16:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1865,7 +1865,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmtt' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-<Immagini/Frontespizio/Copertina_Ferrante.pdf, id=226, 597.50786pt x 845.04686p
+<Immagini/Frontespizio/Copertina_Ferrante.pdf, id=233, 597.50786pt x 845.04686p
 t>
 File: Immagini/Frontespizio/Copertina_Ferrante.pdf Graphic file (type pdf)
 <use Immagini/Frontespizio/Copertina_Ferrante.pdf>
@@ -1877,7 +1877,7 @@ File: Immagini/Frontespizio/Copertina_Ferrante.pdf Graphic file (type pdf)
 Package pdftex.def Info: Immagini/Frontespizio/Copertina_Ferrante.pdf  used on 
 input line 158.
 (pdftex.def)             Requested size: 597.5064pt x 845.0448pt.
-<Immagini/Frontespizio/Copertina_Ferrante.pdf, id=229, page=1, 597.50786pt x 84
+<Immagini/Frontespizio/Copertina_Ferrante.pdf, id=236, page=1, 597.50786pt x 84
 5.04686pt>
 File: Immagini/Frontespizio/Copertina_Ferrante.pdf Graphic file (type pdf)
 <use Immagini/Frontespizio/Copertina_Ferrante.pdf, page 1>
@@ -2278,6 +2278,16 @@ text indent by \l@... (toc, -1):  32.84999pt
 number indent by parent (toc, -1):  -32.84999pt
 text indent calculated (toc, -1): 32.84999pt
 number indent calculated (toc, -1): 0.0pt
+number indent by \l@... (toc, 1):  0.0pt
+text indent by \l@... (toc, 1):  16.42499pt
+number indent by parent (toc, 1):  0.0pt
+text indent calculated (toc, 1): 27.47493pt
+number indent calculated (toc, 1): 0.0pt
+number indent by \l@... (toc, -1):  -32.84999pt
+text indent by \l@... (toc, -1):  32.84999pt
+number indent by parent (toc, -1):  -32.84999pt
+text indent calculated (toc, -1): 32.84999pt
+number indent calculated (toc, -1): 0.0pt
 )
 \tf@toc=\write7
 \openout7 = `ferrante.toc'.
@@ -2287,14 +2297,19 @@ een already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.174 \clearpage
-                 [4]
+                 [4]pdfTeX warning (ext4): destination with the same identifier
+ (name{page.}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.174 \clearpage
+                 [5]
 (./Parti/Momento_statico_e_baricentro_di_una_figura_piana/momento_statico_e_bar
 icentro_di_una_figura_piana.tex
 \blx@maxsegment@1=\count487
 \blx@sectionciteorder@1=\count488
 Package biblatex Info: Reference section=1 on input line 7.
 Package biblatex Info: Setting label 'refsection:1' on input line 7.
-<Immagini/Parte_1/Figura1_1/Figura1_1.pdf, id=350, 597.50786pt x 312.98033pt>
+<Immagini/Parte_1/Figura1_1/Figura1_1.pdf, id=364, 597.50786pt x 312.98033pt>
 File: Immagini/Parte_1/Figura1_1/Figura1_1.pdf Graphic file (type pdf)
 <use Immagini/Parte_1/Figura1_1/Figura1_1.pdf>
 Package pdftex.def Info: Immagini/Parte_1/Figura1_1/Figura1_1.pdf  used on inpu
@@ -2320,7 +2335,7 @@ Package biblatex Info: Reference section=0 on input line 124.
 \blx@sectionciteorder@2=\count490
 Package biblatex Info: Reference section=2 on input line 124.
 Package biblatex Info: Setting label 'refsection:2' on input line 124.
-<Immagini/Parte_1/Figura1_2/Figura1_2.pdf, id=394, 497.92322pt x 270.3012pt>
+<Immagini/Parte_1/Figura1_2/Figura1_2.pdf, id=407, 497.92322pt x 270.3012pt>
 File: Immagini/Parte_1/Figura1_2/Figura1_2.pdf Graphic file (type pdf)
 <use Immagini/Parte_1/Figura1_2/Figura1_2.pdf>
 Package pdftex.def Info: Immagini/Parte_1/Figura1_2/Figura1_2.pdf  used on inpu
@@ -2334,7 +2349,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [2]
-<Immagini/Parte_1/Figura1_3/Figura1_3.pdf, id=404, 384.1122pt x 284.52756pt>
+<Immagini/Parte_1/Figura1_3/Figura1_3.pdf, id=417, 384.1122pt x 284.52756pt>
 File: Immagini/Parte_1/Figura1_3/Figura1_3.pdf Graphic file (type pdf)
 <use Immagini/Parte_1/Figura1_3/Figura1_3.pdf>
 Package pdftex.def Info: Immagini/Parte_1/Figura1_3/Figura1_3.pdf  used on inpu
@@ -2358,13 +2373,13 @@ Package biblatex Info: Reference section=0 on input line 178.
 \blx@sectionciteorder@3=\count492
 Package biblatex Info: Reference section=3 on input line 178.
 Package biblatex Info: Setting label 'refsection:3' on input line 178.
-<Immagini/Parte_1/Figura1_4/Figura1_4.pdf, id=469, 455.2441pt x 270.3012pt>
+<Immagini/Parte_1/Figura1_4/Figura1_4.pdf, id=482, 455.2441pt x 270.3012pt>
 File: Immagini/Parte_1/Figura1_4/Figura1_4.pdf Graphic file (type pdf)
 <use Immagini/Parte_1/Figura1_4/Figura1_4.pdf>
 Package pdftex.def Info: Immagini/Parte_1/Figura1_4/Figura1_4.pdf  used on inpu
 t line 201.
 (pdftex.def)             Requested size: 220.50887pt x 130.9268pt.
-<Immagini/Parte_1/Figura1_5/Figura1_5.pdf, id=472, 384.1122pt x 284.52756pt>
+<Immagini/Parte_1/Figura1_5/Figura1_5.pdf, id=485, 384.1122pt x 284.52756pt>
 File: Immagini/Parte_1/Figura1_5/Figura1_5.pdf Graphic file (type pdf)
 <use Immagini/Parte_1/Figura1_5/Figura1_5.pdf>
 Package pdftex.def Info: Immagini/Parte_1/Figura1_5/Figura1_5.pdf  used on inpu
@@ -2385,13 +2400,13 @@ Overfull \hbox (20.92781pt too wide) detected at line 230
 []
  []
 
-<Immagini/Parte_1/Figura1_6/Figura1_6.pdf, id=491, 443.863pt x 261.76534pt>
+<Immagini/Parte_1/Figura1_6/Figura1_6.pdf, id=504, 443.863pt x 261.76534pt>
 File: Immagini/Parte_1/Figura1_6/Figura1_6.pdf Graphic file (type pdf)
 <use Immagini/Parte_1/Figura1_6/Figura1_6.pdf>
 Package pdftex.def Info: Immagini/Parte_1/Figura1_6/Figura1_6.pdf  used on inpu
 t line 236.
 (pdftex.def)             Requested size: 220.50887pt x 130.04355pt.
-<Immagini/Parte_1/Figura1_7/Figura1_7.pdf, id=493, 307.28975pt x 324.3614pt>
+<Immagini/Parte_1/Figura1_7/Figura1_7.pdf, id=506, 307.28975pt x 324.3614pt>
 File: Immagini/Parte_1/Figura1_7/Figura1_7.pdf Graphic file (type pdf)
 <use Immagini/Parte_1/Figura1_7/Figura1_7.pdf>
 Package pdftex.def Info: Immagini/Parte_1/Figura1_7/Figura1_7.pdf  used on inpu
@@ -2424,7 +2439,7 @@ Package biblatex Info: Reference section=0 on input line 283.
 \blx@sectionciteorder@4=\count494
 Package biblatex Info: Reference section=4 on input line 283.
 Package biblatex Info: Setting label 'refsection:4' on input line 283.
-<Immagini/Parte_1/Esercizio1_1/Esercizio1_1.pdf, id=561, 569.05513pt x 682.8661
+<Immagini/Parte_1/Esercizio1_1/Esercizio1_1.pdf, id=575, 569.05513pt x 682.8661
 2pt>
 File: Immagini/Parte_1/Esercizio1_1/Esercizio1_1.pdf Graphic file (type pdf)
 <use Immagini/Parte_1/Esercizio1_1/Esercizio1_1.pdf>
@@ -2444,14 +2459,14 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [7
 
  <./Immagini/Parte_1/Esercizio1_1/Esercizio1_1.pdf>]
-<Immagini/Parte_1/Esercizio1_1/Esercizio1_1_2.pdf, id=616, 497.92322pt x 668.63
+<Immagini/Parte_1/Esercizio1_1/Esercizio1_1_2.pdf, id=629, 497.92322pt x 668.63
 976pt>
 File: Immagini/Parte_1/Esercizio1_1/Esercizio1_1_2.pdf Graphic file (type pdf)
 <use Immagini/Parte_1/Esercizio1_1/Esercizio1_1_2.pdf>
 Package pdftex.def Info: Immagini/Parte_1/Esercizio1_1/Esercizio1_1_2.pdf  used
  on input line 342.
 (pdftex.def)             Requested size: 198.45662pt x 266.49211pt.
-<Immagini/Parte_1/Esercizio1_2/Esercizio1_2_1.pdf, id=617, 867.80908pt x 628.80
+<Immagini/Parte_1/Esercizio1_2/Esercizio1_2_1.pdf, id=630, 867.80908pt x 628.80
 594pt>
 File: Immagini/Parte_1/Esercizio1_2/Esercizio1_2_1.pdf Graphic file (type pdf)
 <use Immagini/Parte_1/Esercizio1_2/Esercizio1_2_1.pdf>
@@ -2466,7 +2481,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [8 <./Immagini/Parte_1/Esercizio1_1/Esercizio1_1_2.pdf>]
-<Immagini/Parte_1/Esercizio1_3/Esercizio1_3.pdf, id=649, 483.69685pt x 529.2212
+<Immagini/Parte_1/Esercizio1_3/Esercizio1_3.pdf, id=662, 483.69685pt x 529.2212
 5pt>
 File: Immagini/Parte_1/Esercizio1_3/Esercizio1_3.pdf Graphic file (type pdf)
 <use Immagini/Parte_1/Esercizio1_3/Esercizio1_3.pdf>
@@ -2495,14 +2510,14 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [11]
-<Immagini/Parte_1/Esercizio1_4/Esercizio1_4.pdf, id=691, 520.6854pt x 543.44768
+<Immagini/Parte_1/Esercizio1_4/Esercizio1_4.pdf, id=704, 520.6854pt x 543.44768
 pt>
 File: Immagini/Parte_1/Esercizio1_4/Esercizio1_4.pdf Graphic file (type pdf)
 <use Immagini/Parte_1/Esercizio1_4/Esercizio1_4.pdf>
 Package pdftex.def Info: Immagini/Parte_1/Esercizio1_4/Esercizio1_4.pdf  used o
 n input line 478.
 (pdftex.def)             Requested size: 264.61333pt x 276.19273pt.
-<Immagini/Parte_1/Esercizio1_5/Esercizio1_5.pdf, id=692, 514.99487pt x 258.9200
+<Immagini/Parte_1/Esercizio1_5/Esercizio1_5.pdf, id=705, 514.99487pt x 258.9200
 7pt>
 File: Immagini/Parte_1/Esercizio1_5/Esercizio1_5.pdf Graphic file (type pdf)
 <use Immagini/Parte_1/Esercizio1_5/Esercizio1_5.pdf>
@@ -2526,7 +2541,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [13 <./Immagini/Parte_1/Esercizio1_5/Esercizio1_5.pdf>]
-<Immagini/Parte_1/Esercizio1_6/Esercizio1_6.pdf, id=729, 569.05513pt x 569.0551
+<Immagini/Parte_1/Esercizio1_6/Esercizio1_6.pdf, id=742, 569.05513pt x 569.0551
 3pt>
 File: Immagini/Parte_1/Esercizio1_6/Esercizio1_6.pdf Graphic file (type pdf)
 <use Immagini/Parte_1/Esercizio1_6/Esercizio1_6.pdf>
@@ -2550,7 +2565,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [15]
-<Immagini/Parte_1/Esercizio1_7/Esercizio1_7.pdf, id=753, 625.96065pt x 625.9606
+<Immagini/Parte_1/Esercizio1_7/Esercizio1_7.pdf, id=766, 625.96065pt x 625.9606
 5pt>
 File: Immagini/Parte_1/Esercizio1_7/Esercizio1_7.pdf Graphic file (type pdf)
 <use Immagini/Parte_1/Esercizio1_7/Esercizio1_7.pdf>
@@ -2601,7 +2616,7 @@ as been already used, duplicate ignored
                    \relax 
 l.22 ...on{Formule notevoli di momenti di inerzia}
                                                   
-<Immagini/Parte_2/Figura2_1/Figura2_1.pdf, id=774, 540.60239pt x 569.05513pt>
+<Immagini/Parte_2/Figura2_1/Figura2_1.pdf, id=787, 540.60239pt x 569.05513pt>
 File: Immagini/Parte_2/Figura2_1/Figura2_1.pdf Graphic file (type pdf)
 <use Immagini/Parte_2/Figura2_1/Figura2_1.pdf>
 Package pdftex.def Info: Immagini/Parte_2/Figura2_1/Figura2_1.pdf  used on inpu
@@ -2615,7 +2630,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [18 <./Immagini/Parte_2/Figura2_1/Figura2_1.pdf>]
-<Immagini/Parte_2/Figura2_2/Figura2_2.pdf, id=795, 483.69685pt x 483.69685pt>
+<Immagini/Parte_2/Figura2_2/Figura2_2.pdf, id=809, 483.69685pt x 483.69685pt>
 File: Immagini/Parte_2/Figura2_2/Figura2_2.pdf Graphic file (type pdf)
 <use Immagini/Parte_2/Figura2_2/Figura2_2.pdf>
 Package pdftex.def Info: Immagini/Parte_2/Figura2_2/Figura2_2.pdf  used on inpu
@@ -2627,7 +2642,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{equation.2.1}
                    \relax 
 l.61 \begin{equation}
                       \label{equazione2-4}
-<Immagini/Parte_2/Figura2_3/Figura2_3.pdf, id=797, 512.1496pt x 512.1496pt>
+<Immagini/Parte_2/Figura2_3/Figura2_3.pdf, id=811, 512.1496pt x 512.1496pt>
 File: Immagini/Parte_2/Figura2_3/Figura2_3.pdf Graphic file (type pdf)
 <use Immagini/Parte_2/Figura2_3/Figura2_3.pdf>
 Package pdftex.def Info: Immagini/Parte_2/Figura2_3/Figura2_3.pdf  used on inpu
@@ -2641,7 +2656,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [19 <./Immagini/Parte_2/Figura2_2/Figura2_2.pdf>]
-<Immagini/Parte_2/Figura2_4/Figura2_4.pdf, id=836, 569.05513pt x 540.60239pt>
+<Immagini/Parte_2/Figura2_4/Figura2_4.pdf, id=849, 569.05513pt x 540.60239pt>
 File: Immagini/Parte_2/Figura2_4/Figura2_4.pdf Graphic file (type pdf)
 <use Immagini/Parte_2/Figura2_4/Figura2_4.pdf>
 Package pdftex.def Info: Immagini/Parte_2/Figura2_4/Figura2_4.pdf  used on inpu
@@ -2666,7 +2681,7 @@ as been already used, duplicate ignored
                    \relax 
 l.116 \section{Momento di inerzia polare}
                                          
-<Immagini/Parte_2/Figura2_5/Figura2_5.pdf, id=851, 384.1122pt x 287.37285pt>
+<Immagini/Parte_2/Figura2_5/Figura2_5.pdf, id=865, 384.1122pt x 287.37285pt>
 File: Immagini/Parte_2/Figura2_5/Figura2_5.pdf Graphic file (type pdf)
 <use Immagini/Parte_2/Figura2_5/Figura2_5.pdf>
 Package pdftex.def Info: Immagini/Parte_2/Figura2_5/Figura2_5.pdf  used on inpu
@@ -2702,7 +2717,7 @@ as been already used, duplicate ignored
                    \relax 
 l.157 ...ema del trasporto del momento di inerzia}
                                                   
-<Immagini/Parte_2/Figura2_6/Figura2_6.pdf, id=863, 554.82875pt x 540.60239pt>
+<Immagini/Parte_2/Figura2_6/Figura2_6.pdf, id=876, 554.82875pt x 540.60239pt>
 File: Immagini/Parte_2/Figura2_6/Figura2_6.pdf Graphic file (type pdf)
 <use Immagini/Parte_2/Figura2_6/Figura2_6.pdf>
 Package pdftex.def Info: Immagini/Parte_2/Figura2_6/Figura2_6.pdf  used on inpu
@@ -2721,7 +2736,7 @@ Package biblatex Info: Reference section=0 on input line 203.
 \blx@sectionciteorder@9=\count504
 Package biblatex Info: Reference section=9 on input line 203.
 Package biblatex Info: Setting label 'refsection:9' on input line 203.
-<Immagini/Parte_2/Figura2_7/Figura2_7.pdf, id=894, 540.60239pt x 512.1496pt>
+<Immagini/Parte_2/Figura2_7/Figura2_7.pdf, id=907, 540.60239pt x 512.1496pt>
 File: Immagini/Parte_2/Figura2_7/Figura2_7.pdf Graphic file (type pdf)
 <use Immagini/Parte_2/Figura2_7/Figura2_7.pdf>
 Package pdftex.def Info: Immagini/Parte_2/Figura2_7/Figura2_7.pdf  used on inpu
@@ -2738,7 +2753,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [23 <./Immagini/Parte_2/Figura2_6/Figura2_6.pdf>]
-<Immagini/Parte_2/Figura2_8/Figura2_8.pdf, id=914, 540.60239pt x 540.60239pt>
+<Immagini/Parte_2/Figura2_8/Figura2_8.pdf, id=927, 540.60239pt x 540.60239pt>
 File: Immagini/Parte_2/Figura2_8/Figura2_8.pdf Graphic file (type pdf)
 <use Immagini/Parte_2/Figura2_8/Figura2_8.pdf>
 Package pdftex.def Info: Immagini/Parte_2/Figura2_8/Figura2_8.pdf  used on inpu
@@ -2770,7 +2785,7 @@ Package biblatex Info: Reference section=0 on input line 270.
 \blx@sectionciteorder@10=\count506
 Package biblatex Info: Reference section=10 on input line 270.
 Package biblatex Info: Setting label 'refsection:10' on input line 270.
-<Immagini/Parte_2/Esercizio2_1/Esercizio2_1_1.pdf, id=950, 1308.82678pt x 1166.
+<Immagini/Parte_2/Esercizio2_1/Esercizio2_1_1.pdf, id=963, 1308.82678pt x 1166.
 56297pt>
 File: Immagini/Parte_2/Esercizio2_1/Esercizio2_1_1.pdf Graphic file (type pdf)
 <use Immagini/Parte_2/Esercizio2_1/Esercizio2_1_1.pdf>
@@ -2787,7 +2802,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [26
 
  <./Immagini/Parte_2/Esercizio2_1/Esercizio2_1_1.pdf>]
-<Immagini/Parte_2/Esercizio2_2/Esercizio2_2_1.pdf, id=965, 1024.29918pt x 1024.
+<Immagini/Parte_2/Esercizio2_2/Esercizio2_2_1.pdf, id=978, 1024.29918pt x 1024.
 29918pt>
 File: Immagini/Parte_2/Esercizio2_2/Esercizio2_2_1.pdf Graphic file (type pdf)
 <use Immagini/Parte_2/Esercizio2_2/Esercizio2_2_1.pdf>
@@ -2837,8 +2852,8 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [30
 
 ]
-<Immagini/Parte_2/Esercizio2_5/Esercizio2_5_1.pdf, id=999, 697.09248pt x 583.28
-15pt>
+<Immagini/Parte_2/Esercizio2_5/Esercizio2_5_1.pdf, id=1013, 697.09248pt x 583.2
+815pt>
 File: Immagini/Parte_2/Esercizio2_5/Esercizio2_5_1.pdf Graphic file (type pdf)
 <use Immagini/Parte_2/Esercizio2_5/Esercizio2_5_1.pdf>
 Package pdftex.def Info: Immagini/Parte_2/Esercizio2_5/Esercizio2_5_1.pdf  used
@@ -2870,7 +2885,7 @@ as been already used, duplicate ignored
                    \relax 
 l.4 \section{La definizione di momento centrifugo}
                                                   
-<Immagini/Parte_3/Figura3_1/Figura3_1.pdf, id=1015, 540.60239pt x 497.92322pt>
+<Immagini/Parte_3/Figura3_1/Figura3_1.pdf, id=1028, 540.60239pt x 497.92322pt>
 File: Immagini/Parte_3/Figura3_1/Figura3_1.pdf Graphic file (type pdf)
 <use Immagini/Parte_3/Figura3_1/Figura3_1.pdf>
 Package pdftex.def Info: Immagini/Parte_3/Figura3_1/Figura3_1.pdf  used on inpu
@@ -2884,19 +2899,19 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 10.42007pt on input line 30.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 7.91925pt on input line 30.
-<Immagini/Parte_3/Figura3_2/Figura3_2.pdf, id=1017, 884.88074pt x 435.32718pt>
+<Immagini/Parte_3/Figura3_2/Figura3_2.pdf, id=1030, 884.88074pt x 435.32718pt>
 File: Immagini/Parte_3/Figura3_2/Figura3_2.pdf Graphic file (type pdf)
 <use Immagini/Parte_3/Figura3_2/Figura3_2.pdf>
 Package pdftex.def Info: Immagini/Parte_3/Figura3_2/Figura3_2.pdf  used on inpu
 t line 36.
 (pdftex.def)             Requested size: 163.1744pt x 80.2752pt.
-<Immagini/Parte_3/Figura3_3/Figura3_3.pdf, id=1018, 739.77165pt x 938.94092pt>
+<Immagini/Parte_3/Figura3_3/Figura3_3.pdf, id=1031, 739.77165pt x 938.94092pt>
 File: Immagini/Parte_3/Figura3_3/Figura3_3.pdf Graphic file (type pdf)
 <use Immagini/Parte_3/Figura3_3/Figura3_3.pdf>
 Package pdftex.def Info: Immagini/Parte_3/Figura3_3/Figura3_3.pdf  used on inpu
 t line 44.
 (pdftex.def)             Requested size: 149.94441pt x 190.30641pt.
-<Immagini/Parte_3/Figura3_4/Figura3_4.pdf, id=1019, 625.96065pt x 825.12991pt>
+<Immagini/Parte_3/Figura3_4/Figura3_4.pdf, id=1032, 625.96065pt x 825.12991pt>
 File: Immagini/Parte_3/Figura3_4/Figura3_4.pdf Graphic file (type pdf)
 <use Immagini/Parte_3/Figura3_4/Figura3_4.pdf>
 Package pdftex.def Info: Immagini/Parte_3/Figura3_4/Figura3_4.pdf  used on inpu
@@ -2952,7 +2967,7 @@ as been already used, duplicate ignored
                    \relax 
 l.79 ...rema del trasporto del momento centrifugo}
                                                   
-<Immagini/Parte_3/Figura3_5/Figura3_5.pdf, id=1146, 921.86932pt x 856.42793pt>
+<Immagini/Parte_3/Figura3_5/Figura3_5.pdf, id=1159, 921.86932pt x 856.42793pt>
 File: Immagini/Parte_3/Figura3_5/Figura3_5.pdf Graphic file (type pdf)
 <use Immagini/Parte_3/Figura3_5/Figura3_5.pdf>
 Package pdftex.def Info: Immagini/Parte_3/Figura3_5/Figura3_5.pdf  used on inpu
@@ -2977,7 +2992,7 @@ as been already used, duplicate ignored
                    \relax 
 l.117 ...i centrifughi di un triangolo rettangolo}
                                                   
-<Immagini/Parte_3/Figura3_6/Figura3_6.pdf, id=1175, 938.94092pt x 896.26181pt>
+<Immagini/Parte_3/Figura3_6/Figura3_6.pdf, id=1188, 938.94092pt x 896.26181pt>
 File: Immagini/Parte_3/Figura3_6/Figura3_6.pdf Graphic file (type pdf)
 <use Immagini/Parte_3/Figura3_6/Figura3_6.pdf>
 Package pdftex.def Info: Immagini/Parte_3/Figura3_6/Figura3_6.pdf  used on inpu
@@ -2997,7 +3012,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
                                                   \fi \fi 
 l.131 \end{equation*}
                       <./Immagini/Parte_3/Figura3_6/Figura3_6.pdf>]
-<Immagini/Parte_3/Figura3_7/Figura3_7.pdf, id=1198, 938.94092pt x 981.62009pt>
+<Immagini/Parte_3/Figura3_7/Figura3_7.pdf, id=1211, 938.94092pt x 981.62009pt>
 File: Immagini/Parte_3/Figura3_7/Figura3_7.pdf Graphic file (type pdf)
 <use Immagini/Parte_3/Figura3_7/Figura3_7.pdf>
 Package pdftex.def Info: Immagini/Parte_3/Figura3_7/Figura3_7.pdf  used on inpu
@@ -3041,7 +3056,7 @@ as been already used, duplicate ignored
                    \relax 
 l.196 \section{Esercizi}
                         
-<Immagini/Parte_3/Esercizio3_1/Esercizio3_1_1.pdf, id=1225, 1820.97636pt x 1109
+<Immagini/Parte_3/Esercizio3_1/Esercizio3_1_1.pdf, id=1238, 1820.97636pt x 1109
 .65752pt>
 File: Immagini/Parte_3/Esercizio3_1/Esercizio3_1_1.pdf Graphic file (type pdf)
 <use Immagini/Parte_3/Esercizio3_1/Esercizio3_1_1.pdf>
@@ -3090,7 +3105,7 @@ as been already used, duplicate ignored
                    \relax 
 l.5 \section{Formule di trasformazione}
                                        
-<Immagini/Parte_4/Figura4_1/Figura4_1.pdf, id=1261, 1027.14447pt x 1027.14447pt
+<Immagini/Parte_4/Figura4_1/Figura4_1.pdf, id=1275, 1027.14447pt x 1027.14447pt
 >
 File: Immagini/Parte_4/Figura4_1/Figura4_1.pdf Graphic file (type pdf)
 <use Immagini/Parte_4/Figura4_1/Figura4_1.pdf>
@@ -3123,7 +3138,7 @@ as been already used, duplicate ignored
                    \relax 
 l.76 \section{Gli assi principali di inerzia}
                                              
-<Immagini/Parte_4/Figura4_2/Figura4_2.pdf, id=1302, 938.94092pt x 938.94092pt>
+<Immagini/Parte_4/Figura4_2/Figura4_2.pdf, id=1315, 938.94092pt x 938.94092pt>
 File: Immagini/Parte_4/Figura4_2/Figura4_2.pdf Graphic file (type pdf)
 <use Immagini/Parte_4/Figura4_2/Figura4_2.pdf>
 Package pdftex.def Info: Immagini/Parte_4/Figura4_2/Figura4_2.pdf  used on inpu
@@ -3167,7 +3182,7 @@ as been already used, duplicate ignored
                    \relax 
 l.143 \section{Esercizi}
                         
-<Immagini/Parte_4/Esercizio4_1/Esercizio4_1_1.pdf, id=1326, 1195.01572pt x 1166
+<Immagini/Parte_4/Esercizio4_1/Esercizio4_1_1.pdf, id=1339, 1195.01572pt x 1166
 .56297pt>
 File: Immagini/Parte_4/Esercizio4_1/Esercizio4_1_1.pdf Graphic file (type pdf)
 <use Immagini/Parte_4/Esercizio4_1/Esercizio4_1_1.pdf>
@@ -3184,7 +3199,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [45
 
  <./Immagini/Parte_4/Esercizio4_1/Esercizio4_1_1.pdf>]
-<Immagini/Parte_4/Esercizio4_1/Esercizio4_1_2.pdf, id=1362, 1166.56297pt x 1166
+<Immagini/Parte_4/Esercizio4_1/Esercizio4_1_2.pdf, id=1375, 1166.56297pt x 1166
 .56297pt>
 File: Immagini/Parte_4/Esercizio4_1/Esercizio4_1_2.pdf Graphic file (type pdf)
 <use Immagini/Parte_4/Esercizio4_1/Esercizio4_1_2.pdf>
@@ -3199,7 +3214,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [46 <./Immagini/Parte_4/Esercizio4_1/Esercizio4_1_2.pdf>]
-<Immagini/Parte_4/Esercizio4_1/Esercizio4_1_3.pdf, id=1395, 1081.20477pt x 1081
+<Immagini/Parte_4/Esercizio4_1/Esercizio4_1_3.pdf, id=1408, 1081.20477pt x 1081
 .20477pt>
 File: Immagini/Parte_4/Esercizio4_1/Esercizio4_1_3.pdf Graphic file (type pdf)
 <use Immagini/Parte_4/Esercizio4_1/Esercizio4_1_3.pdf>
@@ -3233,7 +3248,7 @@ as been already used, duplicate ignored
                    \relax 
 l.5 \section{La costruzione del cerchio di Mohr}
                                                 
-<Immagini/Parte_5/Figura5_1/Figura5_1.pdf, id=1433, 1707.1653pt x 1138.11024pt>
+<Immagini/Parte_5/Figura5_1/Figura5_1.pdf, id=1447, 1707.1653pt x 1138.11024pt>
 
 File: Immagini/Parte_5/Figura5_1/Figura5_1.pdf Graphic file (type pdf)
 <use Immagini/Parte_5/Figura5_1/Figura5_1.pdf>
@@ -3270,7 +3285,7 @@ as been already used, duplicate ignored
                    \relax 
 l.46 \section{L'utilizzazione del cerchio di Mohr}
                                                   
-<Immagini/Parte_5/Figura5_2/Figura5_2.pdf, id=1459, 1877.88184pt x 1138.11024pt
+<Immagini/Parte_5/Figura5_2/Figura5_2.pdf, id=1472, 1877.88184pt x 1138.11024pt
 >
 File: Immagini/Parte_5/Figura5_2/Figura5_2.pdf Graphic file (type pdf)
 <use Immagini/Parte_5/Figura5_2/Figura5_2.pdf>
@@ -3285,7 +3300,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [50 <./Immagini/Parte_5/Figura5_2/Figura5_2.pdf>]
-<Immagini/Parte_5/Figura5_3/Figura5_3.pdf, id=1485, 1180.78935pt x 827.9752pt>
+<Immagini/Parte_5/Figura5_3/Figura5_3.pdf, id=1498, 1180.78935pt x 827.9752pt>
 File: Immagini/Parte_5/Figura5_3/Figura5_3.pdf Graphic file (type pdf)
 <use Immagini/Parte_5/Figura5_3/Figura5_3.pdf>
 Package pdftex.def Info: Immagini/Parte_5/Figura5_3/Figura5_3.pdf  used on inpu
@@ -3324,7 +3339,7 @@ as been already used, duplicate ignored
                    \relax 
 l.141 \section{Esercizi}
                         
-<Immagini/Parte_5/Esercizio5_1/Esercizio5_1_1.pdf, id=1513, 1024.29918pt x 853.
+<Immagini/Parte_5/Esercizio5_1/Esercizio5_1_1.pdf, id=1526, 1024.29918pt x 853.
 58266pt>
 File: Immagini/Parte_5/Esercizio5_1/Esercizio5_1_1.pdf Graphic file (type pdf)
 <use Immagini/Parte_5/Esercizio5_1/Esercizio5_1_1.pdf>
@@ -3394,7 +3409,7 @@ as been already used, duplicate ignored
                    \relax 
 l.42 ...efinizione di ellisse centrale di inerzia}
                                                   
-<Immagini/Parte_6/Figura6_1/Figura6_1.pdf, id=1542, 1112.50273pt x 1109.65752pt
+<Immagini/Parte_6/Figura6_1/Figura6_1.pdf, id=1555, 1112.50273pt x 1109.65752pt
 >
 File: Immagini/Parte_6/Figura6_1/Figura6_1.pdf Graphic file (type pdf)
 <use Immagini/Parte_6/Figura6_1/Figura6_1.pdf>
@@ -3437,7 +3452,7 @@ as been already used, duplicate ignored
                    \relax 
 l.71 \section{Diametri coniugati di un'ellisse}
                                                
-<Immagini/Parte_6/Figura6_2/Figura6_2.pdf, id=1546, 1138.11024pt x 1138.11024pt
+<Immagini/Parte_6/Figura6_2/Figura6_2.pdf, id=1559, 1138.11024pt x 1138.11024pt
 >
 File: Immagini/Parte_6/Figura6_2/Figura6_2.pdf Graphic file (type pdf)
 <use Immagini/Parte_6/Figura6_2/Figura6_2.pdf>
@@ -3494,7 +3509,7 @@ as been already used, duplicate ignored
                    \relax 
 l.109 ...ion{Punti coniugati rispetto all'ellisse}
                                                   
-<Immagini/Parte_6/Figura6_3/Figura6_3.pdf, id=1561, 1052.75192pt x 1138.11024pt
+<Immagini/Parte_6/Figura6_3/Figura6_3.pdf, id=1574, 1052.75192pt x 1138.11024pt
 >
 File: Immagini/Parte_6/Figura6_3/Figura6_3.pdf Graphic file (type pdf)
 <use Immagini/Parte_6/Figura6_3/Figura6_3.pdf>
@@ -3554,7 +3569,7 @@ as been already used, duplicate ignored
                    \relax 
 l.172 \section{Antipolarità rispetto all'ellisse}
                                                   
-<Immagini/Parte_6/Figura6_4/Figura6_4.pdf, id=1584, 938.94092pt x 967.3937pt>
+<Immagini/Parte_6/Figura6_4/Figura6_4.pdf, id=1598, 938.94092pt x 967.3937pt>
 File: Immagini/Parte_6/Figura6_4/Figura6_4.pdf Graphic file (type pdf)
 <use Immagini/Parte_6/Figura6_4/Figura6_4.pdf>
 Package pdftex.def Info: Immagini/Parte_6/Figura6_4/Figura6_4.pdf  used on inpu
@@ -3593,7 +3608,7 @@ as been already used, duplicate ignored
                    \relax 
 l.236 \section{Il nocciolo centrale di inerzia}
                                                
-<Immagini/Parte_6/Figura6_5/Figura6_5.pdf, id=1596, 1138.11024pt x 1138.11024pt
+<Immagini/Parte_6/Figura6_5/Figura6_5.pdf, id=1609, 1138.11024pt x 1138.11024pt
 >
 File: Immagini/Parte_6/Figura6_5/Figura6_5.pdf Graphic file (type pdf)
 <use Immagini/Parte_6/Figura6_5/Figura6_5.pdf>
@@ -3623,7 +3638,7 @@ Package biblatex Info: Reference section=0 on input line 264.
 \blx@sectionciteorder@27=\count540
 Package biblatex Info: Reference section=27 on input line 264.
 Package biblatex Info: Setting label 'refsection:27' on input line 264.
-<Immagini/Parte_6/Figura6_6/Figura6_6.pdf, id=1609, 910.48819pt x 1081.20477pt>
+<Immagini/Parte_6/Figura6_6/Figura6_6.pdf, id=1622, 910.48819pt x 1081.20477pt>
 
 File: Immagini/Parte_6/Figura6_6/Figura6_6.pdf Graphic file (type pdf)
 <use Immagini/Parte_6/Figura6_6/Figura6_6.pdf>
@@ -3642,7 +3657,7 @@ Package biblatex Info: Reference section=0 on input line 298.
 \blx@sectionciteorder@28=\count542
 Package biblatex Info: Reference section=28 on input line 298.
 Package biblatex Info: Setting label 'refsection:28' on input line 298.
-<Immagini/Parte_6/Figura6_7/Figura6_7.pdf, id=1632, 853.58266pt x 1138.11024pt>
+<Immagini/Parte_6/Figura6_7/Figura6_7.pdf, id=1645, 853.58266pt x 1138.11024pt>
 
 File: Immagini/Parte_6/Figura6_7/Figura6_7.pdf Graphic file (type pdf)
 <use Immagini/Parte_6/Figura6_7/Figura6_7.pdf>
@@ -3664,7 +3679,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [65 <./Immagini/Parte_6/Figura6_7/Figura6_7.pdf>]
-<Immagini/Parte_6/Figura6_8/Figura6_8.pdf, id=1659, 853.58266pt x 1138.11024pt>
+<Immagini/Parte_6/Figura6_8/Figura6_8.pdf, id=1673, 853.58266pt x 1138.11024pt>
 
 File: Immagini/Parte_6/Figura6_8/Figura6_8.pdf Graphic file (type pdf)
 <use Immagini/Parte_6/Figura6_8/Figura6_8.pdf>
@@ -3676,28 +3691,28 @@ Package biblatex Info: Reference section=0 on input line 353.
 \blx@sectionciteorder@29=\count544
 Package biblatex Info: Reference section=29 on input line 353.
 Package biblatex Info: Setting label 'refsection:29' on input line 353.
-<Immagini/Parte_6/Figura6_9/Figura6_9a.pdf, id=1661, 1138.11024pt x 1138.11024p
+<Immagini/Parte_6/Figura6_9/Figura6_9a.pdf, id=1675, 1138.11024pt x 1138.11024p
 t>
 File: Immagini/Parte_6/Figura6_9/Figura6_9a.pdf Graphic file (type pdf)
 <use Immagini/Parte_6/Figura6_9/Figura6_9a.pdf>
 Package pdftex.def Info: Immagini/Parte_6/Figura6_9/Figura6_9a.pdf  used on inp
 ut line 359.
 (pdftex.def)             Requested size: 154.35889pt x 154.35027pt.
-<Immagini/Parte_6/Figura6_9/Figura6_9b.pdf, id=1662, 1138.11024pt x 1138.11024p
+<Immagini/Parte_6/Figura6_9/Figura6_9b.pdf, id=1676, 1138.11024pt x 1138.11024p
 t>
 File: Immagini/Parte_6/Figura6_9/Figura6_9b.pdf Graphic file (type pdf)
 <use Immagini/Parte_6/Figura6_9/Figura6_9b.pdf>
 Package pdftex.def Info: Immagini/Parte_6/Figura6_9/Figura6_9b.pdf  used on inp
 ut line 361.
 (pdftex.def)             Requested size: 154.35889pt x 154.35027pt.
-<Immagini/Parte_6/Figura6_9/Figura6_9c.pdf, id=1663, 1138.11024pt x 1138.11024p
+<Immagini/Parte_6/Figura6_9/Figura6_9c.pdf, id=1677, 1138.11024pt x 1138.11024p
 t>
 File: Immagini/Parte_6/Figura6_9/Figura6_9c.pdf Graphic file (type pdf)
 <use Immagini/Parte_6/Figura6_9/Figura6_9c.pdf>
 Package pdftex.def Info: Immagini/Parte_6/Figura6_9/Figura6_9c.pdf  used on inp
 ut line 363.
 (pdftex.def)             Requested size: 154.35889pt x 154.35027pt.
-<Immagini/Parte_6/Figura6_9/Figura6_9d.pdf, id=1664, 1138.11024pt x 1138.11024p
+<Immagini/Parte_6/Figura6_9/Figura6_9d.pdf, id=1678, 1138.11024pt x 1138.11024p
 t>
 File: Immagini/Parte_6/Figura6_9/Figura6_9d.pdf Graphic file (type pdf)
 <use Immagini/Parte_6/Figura6_9/Figura6_9d.pdf>
@@ -3737,7 +3752,7 @@ Package biblatex Info: Reference section=0 on input line 376.
 \blx@sectionciteorder@30=\count546
 Package biblatex Info: Reference section=30 on input line 376.
 Package biblatex Info: Setting label 'refsection:30' on input line 376.
-<Immagini/Parte_6/Esercizio6_1/Esercizio6_1_1.pdf, id=1777, 1280.37404pt x 1365
+<Immagini/Parte_6/Esercizio6_1/Esercizio6_1_1.pdf, id=1790, 1280.37404pt x 1365
 .73224pt>
 File: Immagini/Parte_6/Esercizio6_1/Esercizio6_1_1.pdf Graphic file (type pdf)
 <use Immagini/Parte_6/Esercizio6_1/Esercizio6_1_1.pdf>
@@ -3757,7 +3772,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [68
 
  <./Immagini/Parte_6/Esercizio6_1/Esercizio6_1_1.pdf>]
-<Immagini/Parte_6/Esercizio6_1/Esercizio6_1_2.pdf, id=1786, 435.32718pt x 435.3
+<Immagini/Parte_6/Esercizio6_1/Esercizio6_1_2.pdf, id=1799, 435.32718pt x 435.3
 2718pt>
 File: Immagini/Parte_6/Esercizio6_1/Esercizio6_1_2.pdf Graphic file (type pdf)
 <use Immagini/Parte_6/Esercizio6_1/Esercizio6_1_2.pdf>
@@ -3786,7 +3801,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [71]
-<Immagini/Parte_6/Esercizio6_1/Esercizio6_1_3.pdf, id=1842, 583.2815pt x 583.28
+<Immagini/Parte_6/Esercizio6_1/Esercizio6_1_3.pdf, id=1855, 583.2815pt x 583.28
 15pt>
 File: Immagini/Parte_6/Esercizio6_1/Esercizio6_1_3.pdf Graphic file (type pdf)
 <use Immagini/Parte_6/Esercizio6_1/Esercizio6_1_3.pdf>
@@ -3843,7 +3858,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [74
 
 ]
-<Immagini/Parte_7/Figura7_1/Figura7_1.pdf, id=1900, 867.80908pt x 711.31892pt>
+<Immagini/Parte_7/Figura7_1/Figura7_1.pdf, id=1913, 867.80908pt x 711.31892pt>
 File: Immagini/Parte_7/Figura7_1/Figura7_1.pdf Graphic file (type pdf)
 <use Immagini/Parte_7/Figura7_1/Figura7_1.pdf>
 Package pdftex.def Info: Immagini/Parte_7/Figura7_1/Figura7_1.pdf  used on inpu
@@ -3857,7 +3872,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [75 <./Immagini/Parte_7/Figura7_1/Figura7_1.pdf>]
-<Immagini/Parte_7/Figura7_2/Figura7_2.pdf, id=1957, 867.80908pt x 768.22438pt>
+<Immagini/Parte_7/Figura7_2/Figura7_2.pdf, id=1970, 867.80908pt x 768.22438pt>
 File: Immagini/Parte_7/Figura7_2/Figura7_2.pdf Graphic file (type pdf)
 <use Immagini/Parte_7/Figura7_2/Figura7_2.pdf>
 Package pdftex.def Info: Immagini/Parte_7/Figura7_2/Figura7_2.pdf  used on inpu
@@ -3882,7 +3897,7 @@ as been already used, duplicate ignored
                    \relax 
 l.103 \section{I vincoli, interpretazione statica}
                                                   
-<Immagini/Parte_7/Figura7_3/Figura7_3.pdf, id=2159, 910.48819pt x 825.12991pt>
+<Immagini/Parte_7/Figura7_3/Figura7_3.pdf, id=2172, 910.48819pt x 825.12991pt>
 File: Immagini/Parte_7/Figura7_3/Figura7_3.pdf Graphic file (type pdf)
 <use Immagini/Parte_7/Figura7_3/Figura7_3.pdf>
 Package pdftex.def Info: Immagini/Parte_7/Figura7_3/Figura7_3.pdf  used on inpu
@@ -3896,7 +3911,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [77 <./Immagini/Parte_7/Figura7_3/Figura7_3.pdf>]
-<Immagini/Parte_7/Figura7_4/Figura7_4.pdf, id=2221, 796.67719pt x 825.12991pt>
+<Immagini/Parte_7/Figura7_4/Figura7_4.pdf, id=2234, 796.67719pt x 825.12991pt>
 File: Immagini/Parte_7/Figura7_4/Figura7_4.pdf Graphic file (type pdf)
 <use Immagini/Parte_7/Figura7_4/Figura7_4.pdf>
 Package pdftex.def Info: Immagini/Parte_7/Figura7_4/Figura7_4.pdf  used on inpu
@@ -3951,7 +3966,7 @@ as been already used, duplicate ignored
                    \relax 
 l.296 \section{Labilità}
                          
-<Immagini/Parte_7/Figura7_5/Figura7_5.pdf, id=2256, 569.05513pt x 384.1122pt>
+<Immagini/Parte_7/Figura7_5/Figura7_5.pdf, id=2269, 569.05513pt x 384.1122pt>
 File: Immagini/Parte_7/Figura7_5/Figura7_5.pdf Graphic file (type pdf)
 <use Immagini/Parte_7/Figura7_5/Figura7_5.pdf>
 Package pdftex.def Info: Immagini/Parte_7/Figura7_5/Figura7_5.pdf  used on inpu
@@ -4059,7 +4074,7 @@ as been already used, duplicate ignored
                    \relax 
 l.37 ...isoluzione delle strutture a più tronchi}
                                                   
-<Immagini/Parte_8/Figura8_1/Figura8_1.pdf, id=2307, 682.86612pt x 170.71654pt>
+<Immagini/Parte_8/Figura8_1/Figura8_1.pdf, id=2321, 682.86612pt x 170.71654pt>
 File: Immagini/Parte_8/Figura8_1/Figura8_1.pdf Graphic file (type pdf)
 <use Immagini/Parte_8/Figura8_1/Figura8_1.pdf>
 Package pdftex.def Info: Immagini/Parte_8/Figura8_1/Figura8_1.pdf  used on inpu
@@ -4100,14 +4115,14 @@ as been already used, duplicate ignored
                    \relax 
 l.94 \section{Esercizi}
                        
-<Immagini/Parte_8/Esercizio8_1/Esercizio8_1_1.pdf, id=2333, 938.94092pt x 341.4
+<Immagini/Parte_8/Esercizio8_1/Esercizio8_1_1.pdf, id=2346, 938.94092pt x 341.4
 3306pt>
 File: Immagini/Parte_8/Esercizio8_1/Esercizio8_1_1.pdf Graphic file (type pdf)
 <use Immagini/Parte_8/Esercizio8_1/Esercizio8_1_1.pdf>
 Package pdftex.def Info: Immagini/Parte_8/Esercizio8_1/Esercizio8_1_1.pdf  used
  on input line 106.
 (pdftex.def)             Requested size: 441.01773pt x 160.36935pt.
-<Immagini/Parte_8/Esercizio8_1/Esercizio8_1_4.pdf, id=2334, 426.79132pt x 284.5
+<Immagini/Parte_8/Esercizio8_1/Esercizio8_1_4.pdf, id=2347, 426.79132pt x 284.5
 2756pt>
 File: Immagini/Parte_8/Esercizio8_1/Esercizio8_1_4.pdf Graphic file (type pdf)
 <use Immagini/Parte_8/Esercizio8_1/Esercizio8_1_4.pdf>
@@ -4124,7 +4139,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [88
 
  <./Immagini/Parte_8/Esercizio8_1/Esercizio8_1_1.pdf>]
-<Immagini/Parte_8/Esercizio8_1/Esercizio8_1_5.pdf, id=2358, 412.56496pt x 241.8
+<Immagini/Parte_8/Esercizio8_1/Esercizio8_1_5.pdf, id=2372, 412.56496pt x 241.8
 4843pt>
 File: Immagini/Parte_8/Esercizio8_1/Esercizio8_1_5.pdf Graphic file (type pdf)
 <use Immagini/Parte_8/Esercizio8_1/Esercizio8_1_5.pdf>
@@ -4145,21 +4160,21 @@ pdfTeX warning: pdflatex.exe (file ./Immagini/Parte_8/Esercizio8_1/Esercizio8_1
 _5.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 
 >]
-<Immagini/Parte_8/Esercizio8_1/Esercizio8_1_6.pdf, id=2370, 441.01773pt x 298.7
+<Immagini/Parte_8/Esercizio8_1/Esercizio8_1_6.pdf, id=2383, 441.01773pt x 298.7
 5392pt>
 File: Immagini/Parte_8/Esercizio8_1/Esercizio8_1_6.pdf Graphic file (type pdf)
 <use Immagini/Parte_8/Esercizio8_1/Esercizio8_1_6.pdf>
 Package pdftex.def Info: Immagini/Parte_8/Esercizio8_1/Esercizio8_1_6.pdf  used
  on input line 184.
 (pdftex.def)             Requested size: 231.53162pt x 156.8436pt.
-<Immagini/Parte_8/Esercizio8_1/Esercizio8_1_2.pdf, id=2371, 1024.29918pt x 312.
+<Immagini/Parte_8/Esercizio8_1/Esercizio8_1_2.pdf, id=2384, 1024.29918pt x 312.
 98033pt>
 File: Immagini/Parte_8/Esercizio8_1/Esercizio8_1_2.pdf Graphic file (type pdf)
 <use Immagini/Parte_8/Esercizio8_1/Esercizio8_1_2.pdf>
 Package pdftex.def Info: Immagini/Parte_8/Esercizio8_1/Esercizio8_1_2.pdf  used
  on input line 209.
 (pdftex.def)             Requested size: 441.01773pt x 134.75562pt.
-<Immagini/Parte_8/Esercizio8_1/Esercizio8_1_3.pdf, id=2373, 1024.29918pt x 312.
+<Immagini/Parte_8/Esercizio8_1/Esercizio8_1_3.pdf, id=2386, 1024.29918pt x 312.
 98033pt>
 File: Immagini/Parte_8/Esercizio8_1/Esercizio8_1_3.pdf Graphic file (type pdf)
 <use Immagini/Parte_8/Esercizio8_1/Esercizio8_1_3.pdf>
@@ -4187,14 +4202,14 @@ pdfTeX warning: pdflatex.exe (file ./Immagini/Parte_8/Esercizio8_1/Esercizio8_1
 _3.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 
 >]
-<Immagini/Parte_8/Esercizio8_2/Esercizio8_2_1.pdf, id=2411, 2020.14563pt x 1138
+<Immagini/Parte_8/Esercizio8_2/Esercizio8_2_1.pdf, id=2424, 2020.14563pt x 1138
 .11024pt>
 File: Immagini/Parte_8/Esercizio8_2/Esercizio8_2_1.pdf Graphic file (type pdf)
 <use Immagini/Parte_8/Esercizio8_2/Esercizio8_2_1.pdf>
 Package pdftex.def Info: Immagini/Parte_8/Esercizio8_2/Esercizio8_2_1.pdf  used
  on input line 245.
 (pdftex.def)             Requested size: 441.01773pt x 248.45738pt.
-<Immagini/Parte_8/Esercizio8_2/Esercizio8_2_2.pdf, id=2412, 1308.82678pt x 1066
+<Immagini/Parte_8/Esercizio8_2/Esercizio8_2_2.pdf, id=2425, 1308.82678pt x 1066
 .97829pt>
 File: Immagini/Parte_8/Esercizio8_2/Esercizio8_2_2.pdf Graphic file (type pdf)
 <use Immagini/Parte_8/Esercizio8_2/Esercizio8_2_2.pdf>
@@ -4211,7 +4226,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [92
 
  <./Immagini/Parte_8/Esercizio8_2/Esercizio8_2_1.pdf>]
-<Immagini/Parte_8/Esercizio8_2/Esercizio8_2_3.pdf, id=2424, 1934.78743pt x 1223
+<Immagini/Parte_8/Esercizio8_2/Esercizio8_2_3.pdf, id=2437, 1934.78743pt x 1223
 .46844pt>
 File: Immagini/Parte_8/Esercizio8_2/Esercizio8_2_3.pdf Graphic file (type pdf)
 <use Immagini/Parte_8/Esercizio8_2/Esercizio8_2_3.pdf>
@@ -4233,7 +4248,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [94 <./Immagini/Parte_8/Esercizio8_2/Esercizio8_2_3.pdf>]
-<Immagini/Parte_8/Esercizio8_3/Esercizio8_3_1.pdf, id=2441, 1650.25984pt x 1536
+<Immagini/Parte_8/Esercizio8_3/Esercizio8_3_1.pdf, id=2454, 1650.25984pt x 1536
 .44878pt>
 File: Immagini/Parte_8/Esercizio8_3/Esercizio8_3_1.pdf Graphic file (type pdf)
 <use Immagini/Parte_8/Esercizio8_3/Esercizio8_3_1.pdf>
@@ -4250,7 +4265,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [95
 
  <./Immagini/Parte_8/Esercizio8_3/Esercizio8_3_1.pdf>]
-<Immagini/Parte_8/Esercizio8_3/Esercizio8_3_2.pdf, id=2453, 2276.22049pt x 1707
+<Immagini/Parte_8/Esercizio8_3/Esercizio8_3_2.pdf, id=2466, 2276.22049pt x 1707
 .1653pt>
 File: Immagini/Parte_8/Esercizio8_3/Esercizio8_3_2.pdf Graphic file (type pdf)
 <use Immagini/Parte_8/Esercizio8_3/Esercizio8_3_2.pdf>
@@ -4265,14 +4280,14 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [96 <./Immagini/Parte_8/Esercizio8_3/Esercizio8_3_2.pdf>]
-<Immagini/Parte_8/Esercizio8_3/Esercizio8_3_3.pdf, id=2467, 910.48819pt x 739.7
+<Immagini/Parte_8/Esercizio8_3/Esercizio8_3_3.pdf, id=2481, 910.48819pt x 739.7
 7165pt>
 File: Immagini/Parte_8/Esercizio8_3/Esercizio8_3_3.pdf Graphic file (type pdf)
 <use Immagini/Parte_8/Esercizio8_3/Esercizio8_3_3.pdf>
 Package pdftex.def Info: Immagini/Parte_8/Esercizio8_3/Esercizio8_3_3.pdf  used
  on input line 375.
 (pdftex.def)             Requested size: 242.5611pt x 197.07704pt.
-<Immagini/Parte_8/Esercizio8_3/Esercizio8_3_4.pdf, id=2469, 768.22438pt x 910.4
+<Immagini/Parte_8/Esercizio8_3/Esercizio8_3_4.pdf, id=2483, 768.22438pt x 910.4
 8819pt>
 File: Immagini/Parte_8/Esercizio8_3/Esercizio8_3_4.pdf Graphic file (type pdf)
 <use Immagini/Parte_8/Esercizio8_3/Esercizio8_3_4.pdf>
@@ -4294,7 +4309,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [98 <./Immagini/Parte_8/Esercizio8_3/Esercizio8_3_4.pdf>]
-<Immagini/Parte_8/Esercizio8_3/Esercizio8_3_5.pdf, id=2487, 1550.67514pt x 1308
+<Immagini/Parte_8/Esercizio8_3/Esercizio8_3_5.pdf, id=2501, 1550.67514pt x 1308
 .82678pt>
 File: Immagini/Parte_8/Esercizio8_3/Esercizio8_3_5.pdf Graphic file (type pdf)
 <use Immagini/Parte_8/Esercizio8_3/Esercizio8_3_5.pdf>
@@ -4332,7 +4347,7 @@ as been already used, duplicate ignored
                    \relax 
 l.37 \section{Il metodo di Ritter}
                                   
-<Immagini/Parte_9/Figura9_1/Figura9_1.pdf, id=2500, 2105.50383pt x 1422.63783pt
+<Immagini/Parte_9/Figura9_1/Figura9_1.pdf, id=2513, 2105.50383pt x 1422.63783pt
 >
 File: Immagini/Parte_9/Figura9_1/Figura9_1.pdf Graphic file (type pdf)
 <use Immagini/Parte_9/Figura9_1/Figura9_1.pdf>
@@ -4352,7 +4367,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [100
 
 ]
-<Immagini/Parte_9/Figura9_2/Figura9_2.pdf, id=2508, 1237.69495pt x 697.09248pt>
+<Immagini/Parte_9/Figura9_2/Figura9_2.pdf, id=2521, 1237.69495pt x 697.09248pt>
 
 File: Immagini/Parte_9/Figura9_2/Figura9_2.pdf Graphic file (type pdf)
 <use Immagini/Parte_9/Figura9_2/Figura9_2.pdf>
@@ -4398,14 +4413,14 @@ as been already used, duplicate ignored
                    \relax 
 l.114 \section{Esercizi}
                         
-<Immagini/Parte_9/Esercizio9_1/Esercizio9_1_1.pdf, id=2557, 2105.50383pt x 938.
+<Immagini/Parte_9/Esercizio9_1/Esercizio9_1_1.pdf, id=2570, 2105.50383pt x 938.
 94092pt>
 File: Immagini/Parte_9/Esercizio9_1/Esercizio9_1_1.pdf Graphic file (type pdf)
 <use Immagini/Parte_9/Esercizio9_1/Esercizio9_1_1.pdf>
 Package pdftex.def Info: Immagini/Parte_9/Esercizio9_1/Esercizio9_1_1.pdf  used
  on input line 123.
 (pdftex.def)             Requested size: 441.01773pt x 196.66763pt.
-<Immagini/Parte_9/Esercizio9_1/Esercizio9_1_2.pdf, id=2558, 995.84645pt x 270.3
+<Immagini/Parte_9/Esercizio9_1/Esercizio9_1_2.pdf, id=2571, 995.84645pt x 270.3
 012pt>
 File: Immagini/Parte_9/Esercizio9_1/Esercizio9_1_2.pdf Graphic file (type pdf)
 <use Immagini/Parte_9/Esercizio9_1/Esercizio9_1_2.pdf>
@@ -4428,42 +4443,42 @@ pdfTeX warning: pdflatex.exe (file ./Immagini/Parte_9/Esercizio9_1/Esercizio9_1
 _2.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 
 >]
-<Immagini/Parte_9/Esercizio9_1/Esercizio9_1_3.pdf, id=2571, 753.99802pt x 375.5
+<Immagini/Parte_9/Esercizio9_1/Esercizio9_1_3.pdf, id=2584, 753.99802pt x 375.5
 7637pt>
 File: Immagini/Parte_9/Esercizio9_1/Esercizio9_1_3.pdf Graphic file (type pdf)
 <use Immagini/Parte_9/Esercizio9_1/Esercizio9_1_3.pdf>
 Package pdftex.def Info: Immagini/Parte_9/Esercizio9_1/Esercizio9_1_3.pdf  used
  on input line 173.
 (pdftex.def)             Requested size: 198.45662pt x 98.85101pt.
-<Immagini/Parte_9/Esercizio9_1/Esercizio9_1_4.pdf, id=2573, 2105.50383pt x 938.
+<Immagini/Parte_9/Esercizio9_1/Esercizio9_1_4.pdf, id=2586, 2105.50383pt x 938.
 94092pt>
 File: Immagini/Parte_9/Esercizio9_1/Esercizio9_1_4.pdf Graphic file (type pdf)
 <use Immagini/Parte_9/Esercizio9_1/Esercizio9_1_4.pdf>
 Package pdftex.def Info: Immagini/Parte_9/Esercizio9_1/Esercizio9_1_4.pdf  used
  on input line 183.
 (pdftex.def)             Requested size: 441.01773pt x 196.66763pt.
-<Immagini/Parte_9/Esercizio9_1/Esercizio9_1_5.pdf, id=2575, 896.26181pt x 512.1
+<Immagini/Parte_9/Esercizio9_1/Esercizio9_1_5.pdf, id=2588, 896.26181pt x 512.1
 496pt>
 File: Immagini/Parte_9/Esercizio9_1/Esercizio9_1_5.pdf Graphic file (type pdf)
 <use Immagini/Parte_9/Esercizio9_1/Esercizio9_1_5.pdf>
 Package pdftex.def Info: Immagini/Parte_9/Esercizio9_1/Esercizio9_1_5.pdf  used
  on input line 193.
 (pdftex.def)             Requested size: 198.45662pt x 113.40002pt.
-<Immagini/Parte_9/Esercizio9_1/Esercizio9_1_6.pdf, id=2577, 1066.97829pt x 398.
+<Immagini/Parte_9/Esercizio9_1/Esercizio9_1_6.pdf, id=2590, 1066.97829pt x 398.
 3386pt>
 File: Immagini/Parte_9/Esercizio9_1/Esercizio9_1_6.pdf Graphic file (type pdf)
 <use Immagini/Parte_9/Esercizio9_1/Esercizio9_1_6.pdf>
 Package pdftex.def Info: Immagini/Parte_9/Esercizio9_1/Esercizio9_1_6.pdf  used
  on input line 209.
 (pdftex.def)             Requested size: 198.45662pt x 74.08656pt.
-<Immagini/Parte_9/Esercizio9_1/Esercizio9_1_7.pdf, id=2578, 825.12991pt x 455.2
+<Immagini/Parte_9/Esercizio9_1/Esercizio9_1_7.pdf, id=2591, 825.12991pt x 455.2
 441pt>
 File: Immagini/Parte_9/Esercizio9_1/Esercizio9_1_7.pdf Graphic file (type pdf)
 <use Immagini/Parte_9/Esercizio9_1/Esercizio9_1_7.pdf>
 Package pdftex.def Info: Immagini/Parte_9/Esercizio9_1/Esercizio9_1_7.pdf  used
  on input line 224.
 (pdftex.def)             Requested size: 198.45662pt x 109.49004pt.
-<Immagini/Parte_9/Esercizio9_1/Esercizio9_1_8.pdf, id=2580, 640.18703pt x 384.1
+<Immagini/Parte_9/Esercizio9_1/Esercizio9_1_8.pdf, id=2593, 640.18703pt x 384.1
 122pt>
 File: Immagini/Parte_9/Esercizio9_1/Esercizio9_1_8.pdf Graphic file (type pdf)
 <use Immagini/Parte_9/Esercizio9_1/Esercizio9_1_8.pdf>
@@ -4481,7 +4496,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [105 <./Immagini/Parte_9/Esercizio9_1/Esercizio9_1_3.pdf>]
-<Immagini/Parte_9/Esercizio9_1/Esercizio9_1_9.pdf, id=2595, 2105.50383pt x 938.
+<Immagini/Parte_9/Esercizio9_1/Esercizio9_1_9.pdf, id=2608, 2105.50383pt x 938.
 94092pt>
 File: Immagini/Parte_9/Esercizio9_1/Esercizio9_1_9.pdf Graphic file (type pdf)
 <use Immagini/Parte_9/Esercizio9_1/Esercizio9_1_9.pdf>
@@ -4539,7 +4554,7 @@ as been already used, duplicate ignored
                    \relax 
 l.9 ...e e carico assiale per unità di lunghezza}
                                                   
-<Immagini/Parte_10/Figura10_1/figura10_1.pdf, id=2619, 853.58266pt x 853.58266p
+<Immagini/Parte_10/Figura10_1/figura10_1.pdf, id=2634, 853.58266pt x 853.58266p
 t>
 File: Immagini/Parte_10/Figura10_1/figura10_1.pdf Graphic file (type pdf)
 <use Immagini/Parte_10/Figura10_1/figura10_1.pdf>
@@ -4561,7 +4576,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [109
 
  <./Immagini/Parte_10/Figura10_1/figura10_1.pdf>]
-<Immagini/Parte_10/Figura10_2/figura10_2.pdf, id=2630, 711.31892pt x 341.43306p
+<Immagini/Parte_10/Figura10_2/figura10_2.pdf, id=2643, 711.31892pt x 341.43306p
 t>
 File: Immagini/Parte_10/Figura10_2/figura10_2.pdf Graphic file (type pdf)
 <use Immagini/Parte_10/Figura10_2/figura10_2.pdf>
@@ -4579,14 +4594,14 @@ as been already used, duplicate ignored
                    \relax 
 l.63 \section{La risultante del carico ripartito}
                                                  
-<Immagini/Parte_10/Figura10_3/figura10_3.pdf, id=2632, 853.58266pt x 426.79132p
+<Immagini/Parte_10/Figura10_3/figura10_3.pdf, id=2645, 853.58266pt x 426.79132p
 t>
 File: Immagini/Parte_10/Figura10_3/figura10_3.pdf Graphic file (type pdf)
 <use Immagini/Parte_10/Figura10_3/figura10_3.pdf>
 Package pdftex.def Info: Immagini/Parte_10/Figura10_3/figura10_3.pdf  used on i
 nput line 69.
 (pdftex.def)             Requested size: 286.65883pt x 143.32927pt.
-<Immagini/Parte_10/Figura10_4/figura10_4.pdf, id=2634, 853.58266pt x 574.7457pt
+<Immagini/Parte_10/Figura10_4/figura10_4.pdf, id=2647, 853.58266pt x 574.7457pt
 >
 File: Immagini/Parte_10/Figura10_4/figura10_4.pdf Graphic file (type pdf)
 <use Immagini/Parte_10/Figura10_4/figura10_4.pdf>
@@ -4655,7 +4670,7 @@ as been already used, duplicate ignored
                    \relax 
 l.123 \section{Esercizi}
                         
-<Immagini/Parte_10/Esercizio10_1_1/Esercizio10_1_1.pdf, id=2659, 1081.20477pt x
+<Immagini/Parte_10/Esercizio10_1_1/Esercizio10_1_1.pdf, id=2672, 1081.20477pt x
  682.86612pt>
 File: Immagini/Parte_10/Esercizio10_1_1/Esercizio10_1_1.pdf Graphic file (type 
 pdf)
@@ -4663,7 +4678,7 @@ pdf)
 Package pdftex.def Info: Immagini/Parte_10/Esercizio10_1_1/Esercizio10_1_1.pdf 
  used on input line 129.
 (pdftex.def)             Requested size: 330.76329pt x 208.90425pt.
-<Immagini/Parte_10/Esercizio10_1_1/Esercizio10_1_2.pdf, id=2660, 1081.20477pt x
+<Immagini/Parte_10/Esercizio10_1_1/Esercizio10_1_2.pdf, id=2673, 1081.20477pt x
  682.86612pt>
 File: Immagini/Parte_10/Esercizio10_1_1/Esercizio10_1_2.pdf Graphic file (type 
 pdf)
@@ -4686,7 +4701,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [113
 
  <./Immagini/Parte_10/Esercizio10_1_1/Esercizio10_1_1.pdf>]
-<Immagini/Parte_10/Esercizio10_1_1/Esercizio10_1_3.pdf, id=2673, 611.73422pt x 
+<Immagini/Parte_10/Esercizio10_1_1/Esercizio10_1_3.pdf, id=2686, 611.73422pt x 
 569.05513pt>
 File: Immagini/Parte_10/Esercizio10_1_1/Esercizio10_1_3.pdf Graphic file (type 
 pdf)
@@ -4705,7 +4720,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [114 <./Immagini/Parte_10/Esercizio10_1_1/Esercizio10_1_2.pdf>]
-<Immagini/Parte_10/Esercizio10_1_1/Esercizio10_1_4.pdf, id=2684, 1081.20477pt x
+<Immagini/Parte_10/Esercizio10_1_1/Esercizio10_1_4.pdf, id=2698, 1081.20477pt x
  540.60239pt>
 File: Immagini/Parte_10/Esercizio10_1_1/Esercizio10_1_4.pdf Graphic file (type 
 pdf)
@@ -4721,7 +4736,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [115 <./Immagini/Parte_10/Esercizio10_1_1/Esercizio10_1_3.pdf>]
-<Immagini/Parte_10/Esercizio10_1_1/Esercizio10_1_5.pdf, id=2697, 910.48819pt x 
+<Immagini/Parte_10/Esercizio10_1_1/Esercizio10_1_5.pdf, id=2710, 910.48819pt x 
 967.3937pt>
 File: Immagini/Parte_10/Esercizio10_1_1/Esercizio10_1_5.pdf Graphic file (type 
 pdf)
@@ -4729,7 +4744,7 @@ pdf)
 Package pdftex.def Info: Immagini/Parte_10/Esercizio10_1_1/Esercizio10_1_5.pdf 
  used on input line 244.
 (pdftex.def)             Requested size: 198.45662pt x 210.84926pt.
-<Immagini/Parte_10/Esercizio10_1_1/Esercizio10_1_6.pdf, id=2698, 853.58266pt x 
+<Immagini/Parte_10/Esercizio10_1_1/Esercizio10_1_6.pdf, id=2711, 853.58266pt x 
 910.48819pt>
 File: Immagini/Parte_10/Esercizio10_1_1/Esercizio10_1_6.pdf Graphic file (type 
 pdf)
@@ -4751,7 +4766,7 @@ pdfTeX warning: pdflatex.exe (file ./Immagini/Parte_10/Esercizio10_1_1/Esercizi
 o10_1_5.pdf): PDF inclusion: multiple pdfs with page group included in a single
  page
 >]
-<Immagini/Parte_10/Esercizio10_1_1/Esercizio10_1_7.pdf, id=2711, 2759.91722pt x
+<Immagini/Parte_10/Esercizio10_1_1/Esercizio10_1_7.pdf, id=2724, 2759.91722pt x
  796.67719pt>
 File: Immagini/Parte_10/Esercizio10_1_1/Esercizio10_1_7.pdf Graphic file (type 
 pdf)
@@ -4821,7 +4836,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 9.
 
-<Immagini/Parte_11/Figura11_1/figura11_1.pdf, id=2723, 1209.24208pt x 995.84645
+<Immagini/Parte_11/Figura11_1/figura11_1.pdf, id=2736, 1209.24208pt x 995.84645
 pt>
 File: Immagini/Parte_11/Figura11_1/figura11_1.pdf Graphic file (type pdf)
 <use Immagini/Parte_11/Figura11_1/figura11_1.pdf>
@@ -4842,14 +4857,14 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [118
 
  <./Immagini/Parte_11/Figura11_1/figura11_1.pdf>]
-<Immagini/Parte_11/Figura11_2/figura11_2.pdf, id=2732, 597.50786pt x 845.04686p
+<Immagini/Parte_11/Figura11_2/figura11_2.pdf, id=2745, 597.50786pt x 845.04686p
 t>
 File: Immagini/Parte_11/Figura11_2/figura11_2.pdf Graphic file (type pdf)
 <use Immagini/Parte_11/Figura11_2/figura11_2.pdf>
 Package pdftex.def Info: Immagini/Parte_11/Figura11_2/figura11_2.pdf  used on i
 nput line 33.
 (pdftex.def)             Requested size: 176.40439pt x 249.48007pt.
-<Immagini/Parte_11/Figura11_3/figura11_3.pdf, id=2734, 597.50786pt x 845.04686p
+<Immagini/Parte_11/Figura11_3/figura11_3.pdf, id=2747, 597.50786pt x 845.04686p
 t>
 File: Immagini/Parte_11/Figura11_3/figura11_3.pdf Graphic file (type pdf)
 <use Immagini/Parte_11/Figura11_3/figura11_3.pdf>
@@ -4946,7 +4961,7 @@ as been already used, duplicate ignored
                    \relax 
 l.120 \section{Esercizi}
                         
-<Immagini/Parte_11/Esercizio11_1_1/esercizio11_1_1.pdf, id=2756, 1280.37404pt x
+<Immagini/Parte_11/Esercizio11_1_1/esercizio11_1_1.pdf, id=2770, 1280.37404pt x
  853.58266pt>
 File: Immagini/Parte_11/Esercizio11_1_1/esercizio11_1_1.pdf Graphic file (type 
 pdf)
@@ -4954,7 +4969,7 @@ pdf)
 Package pdftex.def Info: Immagini/Parte_11/Esercizio11_1_1/esercizio11_1_1.pdf 
  used on input line 126.
 (pdftex.def)             Requested size: 330.76329pt x 220.50658pt.
-<Immagini/Parte_11/Esercizio11_1_1/esercizio11_1_2.pdf, id=2758, 1152.33661pt x
+<Immagini/Parte_11/Esercizio11_1_1/esercizio11_1_2.pdf, id=2772, 1152.33661pt x
  796.67719pt>
 File: Immagini/Parte_11/Esercizio11_1_1/esercizio11_1_2.pdf Graphic file (type 
 pdf)
@@ -4972,7 +4987,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [122
 
  <./Immagini/Parte_11/Esercizio11_1_1/esercizio11_1_1.pdf>]
-<Immagini/Parte_11/Esercizio11_1_1/esercizio11_1_3.pdf, id=2775, 569.05513pt x 
+<Immagini/Parte_11/Esercizio11_1_1/esercizio11_1_3.pdf, id=2788, 569.05513pt x 
 796.67719pt>
 File: Immagini/Parte_11/Esercizio11_1_1/esercizio11_1_3.pdf Graphic file (type 
 pdf)
@@ -4991,7 +5006,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [123 <./Immagini/Parte_11/Esercizio11_1_1/esercizio11_1_2.pdf>]
-<Immagini/Parte_11/Esercizio11_1_1/esercizio11_1_4.pdf, id=2790, 1280.37404pt x
+<Immagini/Parte_11/Esercizio11_1_1/esercizio11_1_4.pdf, id=2803, 1280.37404pt x
  1081.20477pt>
 File: Immagini/Parte_11/Esercizio11_1_1/esercizio11_1_4.pdf Graphic file (type 
 pdf)
@@ -5018,7 +5033,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [125 <./Immagini/Parte_11/Esercizio11_1_1/esercizio11_1_4.pdf>]
-<Immagini/Parte_11/Esercizio11_1_1/esercizio11_1_5.pdf, id=2815, 483.69685pt x 
+<Immagini/Parte_11/Esercizio11_1_1/esercizio11_1_5.pdf, id=2828, 483.69685pt x 
 256.0748pt>
 File: Immagini/Parte_11/Esercizio11_1_1/esercizio11_1_5.pdf Graphic file (type 
 pdf)
@@ -5075,7 +5090,7 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 21.61124pt on input line 7.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 12.50409pt on input line 7.
-<Immagini/Parte_12/Figura12_1/figura12_1.pdf, id=2831, 1422.63783pt x 1029.9897
+<Immagini/Parte_12/Figura12_1/figura12_1.pdf, id=2844, 1422.63783pt x 1029.9897
 6pt>
 File: Immagini/Parte_12/Figura12_1/figura12_1.pdf Graphic file (type pdf)
 <use Immagini/Parte_12/Figura12_1/figura12_1.pdf>
@@ -5102,14 +5117,14 @@ as been already used, duplicate ignored
                    \relax 
 l.50 ...n{Sollecitazione interna vista sul concio}
                                                   
-<Immagini/Parte_12/Figura12_2/figura12_2.pdf, id=2846, 1195.01572pt x 1138.1102
+<Immagini/Parte_12/Figura12_2/figura12_2.pdf, id=2859, 1195.01572pt x 1138.1102
 4pt>
 File: Immagini/Parte_12/Figura12_2/figura12_2.pdf Graphic file (type pdf)
 <use Immagini/Parte_12/Figura12_2/figura12_2.pdf>
 Package pdftex.def Info: Immagini/Parte_12/Figura12_2/figura12_2.pdf  used on i
 nput line 56.
 (pdftex.def)             Requested size: 299.88882pt x 285.60356pt.
-<Immagini/Parte_12/Figura12_3/figura12_3.pdf, id=2849, 1195.01572pt x 839.3563p
+<Immagini/Parte_12/Figura12_3/figura12_3.pdf, id=2862, 1195.01572pt x 839.3563p
 t>
 File: Immagini/Parte_12/Figura12_3/figura12_3.pdf Graphic file (type pdf)
 <use Immagini/Parte_12/Figura12_3/figura12_3.pdf>
@@ -5137,7 +5152,7 @@ as been already used, duplicate ignored
                    \relax 
 l.80 ...e interna e carichi ripartiti nelle travi}
                                                   
-<Immagini/Parte_12/Figura12_4/figura12_4.pdf, id=2851, 853.58266pt x 853.58266p
+<Immagini/Parte_12/Figura12_4/figura12_4.pdf, id=2864, 853.58266pt x 853.58266p
 t>
 File: Immagini/Parte_12/Figura12_4/figura12_4.pdf Graphic file (type pdf)
 <use Immagini/Parte_12/Figura12_4/figura12_4.pdf>
@@ -5250,7 +5265,7 @@ as been already used, duplicate ignored
                    \relax 
 l.193 \section{Esercizi}
                         
-<Immagini/Parte_12/Esercizio12_1_1/esercizio12_1_1.pdf, id=2896, 1138.11024pt x
+<Immagini/Parte_12/Esercizio12_1_1/esercizio12_1_1.pdf, id=2910, 1138.11024pt x
  711.31892pt>
 File: Immagini/Parte_12/Esercizio12_1_1/esercizio12_1_1.pdf Graphic file (type 
 pdf)
@@ -5258,7 +5273,7 @@ pdf)
 Package pdftex.def Info: Immagini/Parte_12/Esercizio12_1_1/esercizio12_1_1.pdf 
  used on input line 199.
 (pdftex.def)             Requested size: 286.65883pt x 179.15346pt.
-<Immagini/Parte_12/Esercizio12_1_1/esercizio12_1_2.pdf, id=2898, 1138.11024pt x
+<Immagini/Parte_12/Esercizio12_1_1/esercizio12_1_2.pdf, id=2912, 1138.11024pt x
  825.12991pt>
 File: Immagini/Parte_12/Esercizio12_1_1/esercizio12_1_2.pdf Graphic file (type 
 pdf)
@@ -5282,7 +5297,7 @@ pdfTeX warning: pdflatex.exe (file ./Immagini/Parte_12/Esercizio12_1_1/esercizi
 o12_1_2.pdf): PDF inclusion: multiple pdfs with page group included in a single
  page
 >]
-<Immagini/Parte_12/Esercizio12_1_1/esercizio12_1_3.pdf, id=2922, 1138.11024pt x
+<Immagini/Parte_12/Esercizio12_1_1/esercizio12_1_3.pdf, id=2935, 1138.11024pt x
  825.12991pt>
 File: Immagini/Parte_12/Esercizio12_1_1/esercizio12_1_3.pdf Graphic file (type 
 pdf)
@@ -5290,7 +5305,7 @@ pdf)
 Package pdftex.def Info: Immagini/Parte_12/Esercizio12_1_1/esercizio12_1_3.pdf 
  used on input line 253.
 (pdftex.def)             Requested size: 286.65883pt x 207.81801pt.
-<Immagini/Parte_12/Esercizio12_1_1/esercizio12_1_4.pdf, id=2923, 1138.11024pt x
+<Immagini/Parte_12/Esercizio12_1_1/esercizio12_1_4.pdf, id=2936, 1138.11024pt x
  1892.10832pt>
 File: Immagini/Parte_12/Esercizio12_1_1/esercizio12_1_4.pdf Graphic file (type 
 pdf)
@@ -5330,7 +5345,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [137 <./Immagini/Parte_12/Esercizio12_1_1/esercizio12_1_4.pdf>]
-<Immagini/Parte_12/Esercizio12_2/12_2_1.pdf, id=2962, 708.47363pt x 543.44762pt
+<Immagini/Parte_12/Esercizio12_2/12_2_1.pdf, id=2975, 708.47363pt x 543.44762pt
 >
 File: Immagini/Parte_12/Esercizio12_2/12_2_1.pdf Graphic file (type pdf)
 <use Immagini/Parte_12/Esercizio12_2/12_2_1.pdf>
@@ -5347,35 +5362,35 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [138
 
  <./Immagini/Parte_12/Esercizio12_2/12_2_1.pdf>]
-<Immagini/Parte_12/Esercizio12_2/12_2_2.pdf, id=2990, 402.60649pt x 475.16103pt
+<Immagini/Parte_12/Esercizio12_2/12_2_2.pdf, id=3004, 402.60649pt x 475.16103pt
 >
 File: Immagini/Parte_12/Esercizio12_2/12_2_2.pdf Graphic file (type pdf)
 <use Immagini/Parte_12/Esercizio12_2/12_2_2.pdf>
 Package pdftex.def Info: Immagini/Parte_12/Esercizio12_2/12_2_2.pdf  used on in
 put line 391.
 (pdftex.def)             Requested size: 242.5611pt x 286.28062pt.
-<Immagini/Parte_12/Esercizio12_2/12_2_3.pdf, id=2991, 237.58052pt x 224.77678pt
+<Immagini/Parte_12/Esercizio12_2/12_2_3.pdf, id=3005, 237.58052pt x 224.77678pt
 >
 File: Immagini/Parte_12/Esercizio12_2/12_2_3.pdf Graphic file (type pdf)
 <use Immagini/Parte_12/Esercizio12_2/12_2_3.pdf>
 Package pdftex.def Info: Immagini/Parte_12/Esercizio12_2/12_2_3.pdf  used on in
 put line 400.
 (pdftex.def)             Requested size: 154.35889pt x 146.038pt.
-<Immagini/Parte_12/Esercizio12_2/12_2_4.pdf, id=2992, 685.71141pt x 517.84016pt
+<Immagini/Parte_12/Esercizio12_2/12_2_4.pdf, id=3006, 685.71141pt x 517.84016pt
 >
 File: Immagini/Parte_12/Esercizio12_2/12_2_4.pdf Graphic file (type pdf)
 <use Immagini/Parte_12/Esercizio12_2/12_2_4.pdf>
 Package pdftex.def Info: Immagini/Parte_12/Esercizio12_2/12_2_4.pdf  used on in
 put line 409.
 (pdftex.def)             Requested size: 441.01773pt x 333.0601pt.
-<Immagini/Parte_12/Esercizio12_2/12_2_5.pdf, id=2993, 341.43306pt x 506.45905pt
+<Immagini/Parte_12/Esercizio12_2/12_2_5.pdf, id=3007, 341.43306pt x 506.45905pt
 >
 File: Immagini/Parte_12/Esercizio12_2/12_2_5.pdf Graphic file (type pdf)
 <use Immagini/Parte_12/Esercizio12_2/12_2_5.pdf>
 Package pdftex.def Info: Immagini/Parte_12/Esercizio12_2/12_2_5.pdf  used on in
 put line 418.
 (pdftex.def)             Requested size: 198.45662pt x 294.38014pt.
-<Immagini/Parte_12/Esercizio12_2/12_2_6.pdf, id=2994, 446.70827pt x 495.07794pt
+<Immagini/Parte_12/Esercizio12_2/12_2_6.pdf, id=3008, 446.70827pt x 495.07794pt
 >
 File: Immagini/Parte_12/Esercizio12_2/12_2_6.pdf Graphic file (type pdf)
 <use Immagini/Parte_12/Esercizio12_2/12_2_6.pdf>
@@ -5397,7 +5412,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [140 <./Immagini/Parte_12/Esercizio12_2/12_2_2.pdf>]
-<Immagini/Parte_12/Esercizio12_2/12_2_7.pdf, id=3017, 301.59921pt x 688.55669pt
+<Immagini/Parte_12/Esercizio12_2/12_2_7.pdf, id=3030, 301.59921pt x 688.55669pt
 >
 File: Immagini/Parte_12/Esercizio12_2/12_2_7.pdf Graphic file (type pdf)
 <use Immagini/Parte_12/Esercizio12_2/12_2_7.pdf>
@@ -5468,7 +5483,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 7.
 
-<Immagini/Parte_13/Figura13_1/figura13_1.pdf, id=3086, 597.50786pt x 497.92322p
+<Immagini/Parte_13/Figura13_1/figura13_1.pdf, id=3100, 597.50786pt x 497.92322p
 t>
 File: Immagini/Parte_13/Figura13_1/figura13_1.pdf Graphic file (type pdf)
 <use Immagini/Parte_13/Figura13_1/figura13_1.pdf>
@@ -5491,7 +5506,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--38
 
  []
 
-<Immagini/Parte_13/Figura13_2/figura13_2.pdf, id=3088, 597.50786pt x 662.94919p
+<Immagini/Parte_13/Figura13_2/figura13_2.pdf, id=3102, 597.50786pt x 662.94919p
 t>
 File: Immagini/Parte_13/Figura13_2/figura13_2.pdf Graphic file (type pdf)
 <use Immagini/Parte_13/Figura13_2/figura13_2.pdf>
@@ -5526,7 +5541,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 78--80
 
  []
 
-<Immagini/Parte_13/Figura13_3/figura13_3.pdf, id=3120, 597.50786pt x 460.93463p
+<Immagini/Parte_13/Figura13_3/figura13_3.pdf, id=3133, 597.50786pt x 460.93463p
 t>
 File: Immagini/Parte_13/Figura13_3/figura13_3.pdf Graphic file (type pdf)
 <use Immagini/Parte_13/Figura13_3/figura13_3.pdf>
@@ -5550,14 +5565,14 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [147 <./Immagini/Parte_13/Figura13_3/figura13_3.pdf>]
-<Immagini/Parte_13/Figura13_4/figura13_4.pdf, id=3136, 597.50786pt x 512.1496pt
+<Immagini/Parte_13/Figura13_4/figura13_4.pdf, id=3150, 597.50786pt x 512.1496pt
 >
 File: Immagini/Parte_13/Figura13_4/figura13_4.pdf Graphic file (type pdf)
 <use Immagini/Parte_13/Figura13_4/figura13_4.pdf>
 Package pdftex.def Info: Immagini/Parte_13/Figura13_4/figura13_4.pdf  used on i
 nput line 122.
 (pdftex.def)             Requested size: 308.71106pt x 264.60788pt.
-)
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 13.59999pt.
@@ -5565,13 +5580,103 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [148 <./Immagini/Parte_13/Figura13_4/figura13_4.pdf>]
+Package biblatex Info: Reference section=0 on input line 144.
+\blx@maxsegment@53=\count591
+\blx@sectionciteorder@53=\count592
+Package biblatex Info: Reference section=53 on input line 144.
+Package biblatex Info: Setting label 'refsection:53' on input line 144.
+pdfTeX warning (ext4): destination with the same identifier (name{section.2}) h
+as been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.144 \section{Esercizi}
+                        
+<Immagini/Parte_13/Esercizio13_1/figura13_1_1.pdf, id=3166, 597.50786pt x 284.5
+2756pt>
+File: Immagini/Parte_13/Esercizio13_1/figura13_1_1.pdf Graphic file (type pdf)
+<use Immagini/Parte_13/Esercizio13_1/figura13_1_1.pdf>
+Package pdftex.def Info: Immagini/Parte_13/Esercizio13_1/figura13_1_1.pdf  used
+ on input line 150.
+(pdftex.def)             Requested size: 286.65883pt x 136.5022pt.
+<Immagini/Parte_13/Esercizio13_1/figura13_1_2.pdf, id=3168, 597.50786pt x 284.5
+2756pt>
+File: Immagini/Parte_13/Esercizio13_1/figura13_1_2.pdf Graphic file (type pdf)
+<use Immagini/Parte_13/Esercizio13_1/figura13_1_2.pdf>
+Package pdftex.def Info: Immagini/Parte_13/Esercizio13_1/figura13_1_2.pdf  used
+ on input line 184.
+(pdftex.def)             Requested size: 286.65883pt x 136.5022pt.
+<Immagini/Parte_13/Esercizio13_1/figura13_1_3.pdf, id=3170, 597.50786pt x 845.0
+4686pt>
+File: Immagini/Parte_13/Esercizio13_1/figura13_1_3.pdf Graphic file (type pdf)
+<use Immagini/Parte_13/Esercizio13_1/figura13_1_3.pdf>
+Package pdftex.def Info: Immagini/Parte_13/Esercizio13_1/figura13_1_3.pdf  used
+ on input line 197.
+(pdftex.def)             Requested size: 286.65883pt x 405.41158pt.
+)
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[149
+
+ <./Immagini/Parte_13/Esercizio13_1/figura13_1_1.pdf>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[150 <./Immagini/Parte_13/Esercizio13_1/figura13_1_2.pdf> <./Immagini/Parte_13/
+Esercizio13_1/figura13_1_3.pdf
+
+pdfTeX warning: pdflatex.exe (file ./Immagini/Parte_13/Esercizio13_1/figura13_1
+_3.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+
+>]
+(./Parti/diagramma_di_M_tratto_rett_carico_trasv/diagramma_di_M_tratto_rett_car
+ico_trasv.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 7.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 7.
+
+<Immagini/Parte_14/Figura14_1/figura14_1.pdf, id=3201, 597.50786pt x 682.86612p
+t>
+File: Immagini/Parte_14/Figura14_1/figura14_1.pdf Graphic file (type pdf)
+<use Immagini/Parte_14/Figura14_1/figura14_1.pdf>
+Package pdftex.def Info: Immagini/Parte_14/Figura14_1/figura14_1.pdf  used on i
+nput line 26.
+(pdftex.def)             Requested size: 418.96548pt x 478.81575pt.
+)
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[151
+
+
+]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[152 <./Immagini/Parte_14/Figura14_1/figura14_1.pdf>]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 234.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 234.
  (./ferrante.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 234.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 234.
 Package rerunfilecheck Info: File `ferrante.out' has not changed.
-(rerunfilecheck)             Checksum: 5D2D42B9437C44A7B59B79BD87A2F254;4565.
+(rerunfilecheck)             Checksum: DA79C0AD4D77EC54B4727D407C28AE7D;4739.
 
 
 LaTeX Warning: There were multiply-defined labels.
@@ -5581,10 +5686,10 @@ Package logreq Info: Writing requests to 'ferrante.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 52549 strings out of 492649
- 1173956 string characters out of 6133384
- 1675956 words of memory out of 5000000
- 54504 multiletter control sequences out of 15000+600000
+ 52606 strings out of 492649
+ 1175665 string characters out of 6133384
+ 1676169 words of memory out of 5000000
+ 54534 multiletter control sequences out of 15000+600000
  634100 words of font info for 490 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,18n,96p,10436b,1974s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -5602,10 +5707,10 @@ fonts/type1/public/cm-super/sfsx1000.pfb><c:/texlive/2018/texmf-dist/fonts/type
 tino/uplb8a.pfb><c:/texlive/2018/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pf
 b><c:/texlive/2018/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><c:/texlive/2
 018/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on ferrante.pdf (154 pages, 2222842 bytes).
+Output written on ferrante.pdf (159 pages, 2299554 bytes).
 PDF statistics:
- 3307 PDF objects out of 3580 (max. 8388607)
- 2550 compressed objects within 26 object streams
- 480 named destinations out of 1000 (max. 500000)
- 69284 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 3374 PDF objects out of 3580 (max. 8388607)
+ 2605 compressed objects within 27 object streams
+ 497 named destinations out of 1000 (max. 500000)
+ 69320 words of extra memory for PDF output out of 74296 (max. 10000000)
 

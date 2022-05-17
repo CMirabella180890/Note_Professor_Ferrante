@@ -116,3 +116,8 @@
 \contentsline {subparagraph}{Quesito 2}{139}{section*.169}
 \contentsline {subparagraph}{Quesito 3}{139}{section*.175}
 \contentsline {part}{13\hspace {1em}Discontinuit\IeC {\`a} e punti angolosi nei diagrammi di $N$, $T$ ed $M$}{145}{part.13}
+\contentsline {section}{\numberline {13.2}Esercizi}{149}{section.2}
+\contentsline {paragraph}{Esercizio 13.1}{149}{figure.caption.182}
+\contentsline {subparagraph}{Quesito 1}{149}{section*.183}
+\contentsline {subparagraph}{Quesito 2}{149}{section*.185}
+\contentsline {part}{14\hspace {1em}Il diagramma di $M$ in un tratto rettilineo su cui agisce un carico trasversale uniforme}{151}{part.14}
